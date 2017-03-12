@@ -1,10 +1,50 @@
 [
 	{
+		"curated_id": "kn116QNOJcZJRBfVl6zIJFnnYFWsUqTg7xxp6nEUkihk5116U3p1LIT1GrQ0deANu4lup7KqMOUdhnc7u3QZX6EYkA117117",
+		"item_date": "2017-03-06 06:18:54",
+		"title": "Stormpath Joins Forces With Okta",
+		"url": "https://stormpath.com/blog/stormpaths-new-path",
+		"domain": "stormpath.com",
+		"image": ""
+	},
+	{
+		"curated_id": "blTTKL1EKdI11617Djlvl123Ow7LFDauBKPw1167L3ZhYp3MuZu116rtCdzrAZ1161osH8Rj123T1232aeyR116dhhL1xubDYqwCwA117117",
+		"item_date": "2017-03-06 00:00:00",
+		"title": "CA to acquire security testing firm Veracode for 614M",
+		"url": "http://www.pcworld.com/article/3177322/software/ca-to-acquire-security-testing-firm-veracode-for-614m.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "grFZWk3qLTr1O7tG82Dp1Jwj6HJazcdwVAbAKJ75a115G3CGxsuCUVCTfNTCoIDh123qpprWKuJ8FLXBorjWuyyg117117",
+		"item_date": "2017-03-06 06:18:54",
+		"title": "Stormpath Joins Forces With Okta  Stormpath User Identity API",
+		"url": "https://stormpath.com/blog/stormpaths-new-path",
+		"domain": "stormpath.com",
+		"image": ""
+	},
+	{
+		"curated_id": "lC0Pe7rVQHaGye8Z3KSZw8sb6gV6uEPufOoY1vqV1234IgJxlov88PmQ7ErR67UfbarMzikt5ebO68QZqczjwtWg117117",
+		"item_date": "2017-03-09 00:00:00",
+		"title": "175M Acquisition Turns Community Bank Into Fintech Player",
+		"url": "http://bankinnovation.net/2017/03/175m-acquisition-turns-community-bank-into-fintech-player/",
+		"domain": "bankinnovation.net",
+		"image": ""
+	},
+	{
 		"curated_id": "08ZiJfppcn3KkMOcwa2Lpj9GeA116Sf1HX7Zunf6t7W1165phQ56A7JGSQOTFgdTQSdKqPGXr0cr6C6HRikeRO05Kg117117",
 		"item_date": "2017-03-09 00:00:00",
 		"title": "Google confirms acquisition of data science community Kaggle",
-		"url": "http://feedproxy.google.com/~r/zdnet/BTL/~3/8oPhqtW_ou8/",
-		"domain": "feedproxy.google.com",
+		"url": "http://www.zdnet.com/article/google-confirms-acquisition-of-data-science-firm-kaggle/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qTj12352REUGzlpqH2XIK6JJxcxryua123Z0nMXmulGXBttjnH8kNa116EJwhT116NaRpmlqGlczIz9Y3vWNyiHXHCQe7g117117",
+		"item_date": "2017-03-06 00:00:00",
+		"title": "Okta scoops up Stormpath team to ramp up identity platform for developers",
+		"url": "http://www.zdnet.com/article/okta-scoops-up-stormpath-team-to-ramp-up-identity-platform-for-developers/",
+		"domain": "www.zdnet.com",
 		"image": ""
 	},
 	{
