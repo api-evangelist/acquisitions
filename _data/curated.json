@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "22dmMggyp3J6NNXQvMnSNXnWzyrXnKLBw6vDe116116nV123zC6dHZUTw9ZIBuR40a5m0gAS8UxYMefkdxTcUXtRBknA117117",
+		"item_date": "2017-03-14 00:00:00",
+		"title": "Intel bets on selling Mobileye data with maps a first test",
+		"url": "http://www.reuters.com/article/us-intel-mobileye-data-idUSKBN16M0E5",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "JDjknP3P8Y8OSuNbtSCsEPdclNfe3pyklAg6XQXehi5ex7FLYrhHpx0j5wPdACYfntEPMdzsUYxlArZxPXSUvA117117",
+		"item_date": "2017-03-15 00:00:00",
+		"title": "Gitter is joining the GitLab team",
+		"url": "https://about.gitlab.com/2017/03/15/gitter-acquisition/",
+		"domain": "about.gitlab.com",
+		"image": ""
+	},
+	{
+		"curated_id": "dmmdYQa3E2JKehHSjxkB123vZeHNOsEd726XuSQv123QTuMtfY116cFx9qackaoqBbV123f3pQdK1236435iVD1bUw19dGxA117117",
+		"item_date": "2017-03-17 00:00:00",
+		"title": "GitLab Aquires Public Chat Software Gitter",
+		"url": "https://www.infoq.com/news/2017/03/gitlab-gitter-acquisition",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Zo4as5AxIJzmgKonYN123bxZ116Hsh116D5116Mw5QQkW6GPX4UWYSCeRyg6slVIwnDubtlbZXP116uGSt1Hv68nv1l9jbrg117117",
+		"item_date": "2017-03-13 00:00:00",
+		"title": "Intel to Buy Mobileye for 15 Billion",
+		"url": "http://spectrum.ieee.org/cars-that-think/transportation/self-driving/intel-buys-mobileye-for-15-billion",
+		"domain": "spectrum.ieee.org",
+		"image": ""
+	},
+	{
 		"curated_id": "kn116QNOJcZJRBfVl6zIJFnnYFWsUqTg7xxp6nEUkihk5116U3p1LIT1GrQ0deANu4lup7KqMOUdhnc7u3QZX6EYkA117117",
 		"item_date": "2017-03-06 06:18:54",
 		"title": "Stormpath Joins Forces With Okta",
