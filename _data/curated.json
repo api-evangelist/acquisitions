@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "cpapbeXqc4H8GKX9ipnEmlGAmBe6MlpkWqm07aUYEUoY1bNYQNdn12360UxmxTbFo116MH1CeaYSoaIBRam3pPOh123g117117",
+		"item_date": "2017-04-10 00:00:00",
+		"title": "Stripe and IndieHackers",
+		"url": "https://stripe.com/blog/stripe-and-indie-hackers",
+		"domain": "stripe.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5Wtwe35ryVlYWW4uk1382TWHv0KKeO116GtTsxhlD0AWUQcwqB123vg6116qxAaDKsRPdzmQQnJNHvDisgG7EXS8uR3g117117",
+		"item_date": "2017-04-10 00:00:00",
+		"title": "Microsoft Dives Deeper Into Kubernetes With Deis Acquisition",
+		"url": "http://www.crn.com/news/cloud/300084508/microsoft-dives-deeper-into-kubernetes-with-deis-acquisition.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Wioj116o6wL6OWeASLNAYbQGlyqhgnl6hhTokv3PVkeESZlqnCcSzT116hQ4Us3FWaKcbSYCc0jtvseW8aHcGMp6DQ117117",
+		"item_date": "2017-04-12 00:00:00",
+		"title": "VMware acquires Wavefront to boost cloud management portfolio",
+		"url": "http://feedproxy.google.com/~r/zdnet/BTL/~3/cbbVnO1r7RU/",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
 		"curated_id": "FSldNrWsFOeOpxu8bvGlHnWZYPwzG6RLAWs54iNdlKM0F8vgUiO123eETZqaHdq6JEddPgsM0PYAFUfH8BuWhhLg117117",
 		"item_date": "2017-04-06 00:00:00",
 		"title": "FSecure buys Little Flocker to upgrade its Mac security play",
