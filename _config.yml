@@ -1,10 +1,10 @@
-title:        API Regulation
-url:          http://regulation.apievangelist.com
-raw_url: http://regulation.apievangelist.com/apis/
+title:        API Acquisitions
+url:          http://acquisitions.apievangelist.com
+raw_url: http://acquisitions.apievangelist.com/apis/
 
-tag: Regulation
+tag: Acquisitions
 
-logo:         https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-evangelist-logo-regulation.png
+logo:         https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-evangelist-logo-acquisitions.png
 logo_width:   80
 logo_bottom_padding: 10
 
@@ -21,7 +21,7 @@ paginate: 25
 paginate_path: "/blog/page:num"
 
 github_user: api-evangelist
-github_repo: regulation
+github_repo: acquisitions
 github_branch: gh-pages
 
 # Footer
