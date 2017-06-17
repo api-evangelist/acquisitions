@@ -1,4 +1,239 @@
 ---
+<<<<<<< HEAD
+=======
+- curated_id: b525ba69496a21c0c4cb24ad0937c250
+  item_date: "2013-02-04 19:18:16"
+  title: Twitter reportedly acquiring Bluefin Labs
+  url: https://gigaom.com/2013/02/04/twitter-reportedly-acquiring-bluefin-labs/
+  domain: gigaom.com
+  image: ""
+- curated_id: db556375c316ff61e8c02204e3926513
+  item_date: "2013-03-15 00:00:00"
+  title: Dropbox Acquires Popular Mailbox App
+  url: http://www.huffingtonpost.com/2013/03/15/dropbox-acquires-mailbox-app_n_2885171.html
+  domain: www.huffingtonpost.com
+  image: ""
+- curated_id: 46c8eb7a77a4dba718cb32c6881bafc4
+  item_date: "2013-04-17 00:00:00"
+  title: Intel Is Buying Mashery To Get Deeper Inside The Data Center
+  url: http://readwrite.com/2013/04/17/intel-acquires-mashery
+  domain: readwrite.com
+  image: ""
+- curated_id: c33d66f5a1965e663891d3c541665e1e
+  item_date: "2013-04-22 00:00:00"
+  title: CA Technologies to acquire Layer 7, Nolio
+  url: http://www.zdnet.com/article/ca-technologies-to-acquire-layer-7-nolio/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 7a9eaae691ef5217c51041d68dd707ef
+  item_date: "2013-04-23 07:47:42"
+  title: ProgrammableWeb Joins MuleSoft
+  url: http://www.programmableweb.com/news/programmableweb-joins-mulesoft/2013/04/23
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e0ec7eb8d9653ce55fd5e6ad64c6b25a
+  item_date: "2013-04-23 10:35:57"
+  title: Layer 7 Technologies - CA Technologies
+  url: http://www.ca.com/us/content/integration/layer-7-technologies.aspx
+  domain: www.ca.com
+  image: ""
+- curated_id: 3eb01e21f0b2ca4a75ff75704dd74130
+  item_date: "2013-04-25 00:00:00"
+  title: The Future of Parse
+  url: http://blog.parse.com/announcements/the-future-of-parse/
+  domain: blog.parse.com
+  image: ""
+- curated_id: ca1e6357399774951eed4628d69eb84b
+  item_date: "2013-04-30 00:00:00"
+  title: Jawbone Buys Sensor Start-Up for $110 Million
+  url: http://www.nytimes.com/
+  domain: www.nytimes.com
+  image: ""
+- curated_id: fa04ebfe5b039d502880971401f8a2f0
+  item_date: "2013-05-01 00:00:00"
+  title: Pulse introduces sharing to LinkedIn, 3 weeks after being bought by the business
+    social network
+  url: http://thenextweb.com/apps/2013/05/02/pulse-introduces-sharing-to-linkedin-3-weeks-after-being-bought-by-the-business-social-network/
+  domain: thenextweb.com
+  image: ""
+- curated_id: b92e2fd7b71c787d67758dd295312d7b
+  item_date: "2013-05-03 00:00:00"
+  title: Spotify has acquired playlist discovery app Tunigo, one of the most popular
+    apps on its platform
+  url: http://thenextweb.com/insider/2013/05/03/spotify-acquires-playlist-discovery-app-tunigo/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 6db7b757e4e648a949472e65601feb7d
+  item_date: "2013-05-07 00:00:00"
+  title: Lucent Mobile, Inc. Acquires Proxomo Software, Inc.
+  url: http://blog.proxomo.com/archives/lucent-mobile-inc-acquires-proxomo-software-inc/
+  domain: blog.proxomo.com
+  image: ""
+- curated_id: fa72d4fd81c982f7edfa88ce227ff248
+  item_date: "2013-05-08 00:00:00"
+  title: Trulia to acquire Market Leader for $355 million
+  url: http://www.zdnet.com/article/trulia-to-acquire-market-leader-for-355-million/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 5318f3a534c4d4e4a4cfd38de6360ba3
+  item_date: "2013-05-09 00:00:00"
+  title: Crocodoc and Box Platform
+  url: https://blog.box.com/blog/crocodoc-and-box-platform/
+  domain: blog.box.com
+  image: ""
+- curated_id: d4ecbe55037f68c3dd9570782cfb7207
+  item_date: "2013-05-09 00:00:00"
+  title: Twitter acquiring scalable computation startup Ubalo
+  url: http://www.zdnet.com/article/twitter-acquiring-scalable-computation-startup-ubalo/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: c335b273057dfaffc342776f15de7231
+  item_date: "2013-05-09 00:00:00"
+  title: Yahoo acquires GoPollGo polling service, shuts down all widgets, polls and
+    properties
+  url: http://thenextweb.com/insider/2013/05/09/yahoo-mobile-acquires-gopollgo-polling-service-shuts-down-all-widgets-polls-and-properties/
+  domain: thenextweb.com
+  image: ""
+- curated_id: e1c0544bb5e885d3f81721e5dcbb50a6
+  item_date: "2013-05-09 00:00:00"
+  title: Mashery + Intel = The Ultimate Mashup
+  url: http://www.mashery.com/blog/mashery-intel-ultimate-mashup
+  domain: www.mashery.com
+  image: ""
+- curated_id: 9455565e2d6e833cf1e4cd27059e076f
+  item_date: "2013-05-10 00:00:00"
+  title: Alarm.com buys energy software startup EnergyHub
+  url: https://gigaom.com/2013/05/10/alarm-com-buys-energy-software-startup-energyhub/
+  domain: gigaom.com
+  image: ""
+- curated_id: 43ad71edcd9bec28ace1cb8f1b08d4ec
+  item_date: "2013-05-20 00:00:00"
+  title: Seamless + GrubHub? Well, that makes sense!
+  url: http://blog.seamless.com/uncategorized/seamless-grubhub-well-that-makes-sense/
+  domain: blog.seamless.com
+  image: ""
+- curated_id: 659589f13002f4917b51619bd1dab201
+  item_date: "2013-05-21 18:18:13"
+  title: Tumblr Staff - News!
+  url: http://staff.tumblr.com/post/50902268806/news
+  domain: staff.tumblr.com
+  image: ""
+- curated_id: d43d4a39c360bc7999151ef63ac69838
+  item_date: "2013-05-23 00:00:00"
+  title: Facebook engineers reveal how Parse fits into Platform, B2B strategies
+  url: http://www.zdnet.com/article/facebook-engineers-reveal-how-parse-fits-into-platform-b2b-strategies/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: dffe74379c57aa1fe92142e69e37a872
+  item_date: "2013-06-04 00:00:00"
+  title: 'DealBook: Salesforce to Acquire ExactTarget for $2.5 Billion'
+  url: http://dealbook.nytimes.com/2013/06/04/salesforce-to-buy-exacttarget-for-2-5-billion/
+  domain: dealbook.nytimes.com
+  image: ""
+- curated_id: f617dbcf1839632a5b95755f76bf9c7e
+  item_date: "2013-07-11 00:00:00"
+  title: Open your data with ScraperWiki
+  url: https://blog.scraperwiki.com/2013/07/open-your-data-with-scraperwiki/
+  domain: blog.scraperwiki.com
+  image: ""
+- curated_id: 7b8722cc35ebb37e64848747e986681e
+  item_date: "2013-08-01 00:00:00"
+  title: Runscope Acquires RequestBin
+  url: http://blog.runscope.com/posts/runscope-acquires-requestbin
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 4447d9a654b88b089da714d3725435aa
+  item_date: "2013-08-06 00:00:00"
+  title: Infochimps, a CSC Company = Big Data Made Better
+  url: http://blog.infochimps.com/2013/08/06/infochimps-a-csc-company-big-data-made-better/
+  domain: blog.infochimps.com
+  image: ""
+- curated_id: d9aeb04026ed82c4c854cc89672f6157
+  item_date: "2013-08-07 00:00:00"
+  title: Connect2Field Acquired By Fleetmatics
+  url: https://www.fleetmatics.com/about-us/18
+  domain: www.fleetmatics.com
+  image: ""
+- curated_id: 29b17c0fa99cda64dbc9276abf4c3002
+  item_date: "2013-08-22 00:00:00"
+  title: Singly joins Appcelerator!
+  url: http://blog.singly.com/2013/08/22/singly-joins-appcelerator/
+  domain: blog.singly.com
+  image: ""
+- curated_id: 212116dd583ecff568d25b49d8ec502c
+  item_date: "2013-11-11 00:00:00"
+  title: Akamai Acquires Velocius Networks
+  url: https://www.akamai.com/us/en/about/news/press/2013-press/akamai-acquires-velocius-networks.jsp
+  domain: www.akamai.com
+  image: ""
+- curated_id: 78852c37fd5a3a824254da580927dc86
+  item_date: "2013-12-17 00:00:00"
+  title: StackMob Joins PayPal
+  url: https://blog.stackmob.com/2013/12/stackmob-joins-paypal/
+  domain: blog.stackmob.com
+  image: ""
+- curated_id: 464f29ea98a504951acbd015877489ff
+  item_date: "2014-01-08 09:04:42"
+  title: Apigee Acquires InsightsOne To Deepen API Analytics Offerings | TechCrunch
+  url: https://techcrunch.com/2014/01/08/apigee-acquires-insightsone-to-deepen-api-insights-with-predictive-analytics/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 8f1a4ac3b58d96158408b4b817af3b4e
+  item_date: "2014-06-16 00:00:00"
+  title: 'Box Acquiring Streem: Bringing the Cloud to your Desktop'
+  url: https://app.box.com/2014/06/box-acquiring-streem-bringing-the-cloud-to-your-desktop
+  domain: app.box.com
+  image: ""
+- curated_id: ddf543f304a843b86138d00bbf7c6fcb
+  item_date: "2014-06-18 00:00:00"
+  title: |
+    The Next Phase: Layar Joins Blippar
+  url: https://www.layar.com/news/blog/2014/06/18/next-phase-layar-joins-blippar/
+  domain: www.layar.com
+  image: ""
+- curated_id: 65a162d9d3ba3a780de9bdecee61c8d5
+  item_date: "2014-07-23 08:57:14"
+  title: Docker Makes Its Move, Acquires Orchard In A Sign Of Things To Come - Forbes
+  url: http://www.forbes.com/sites/benkepes/2014/07/23/docker-makes-its-move-acquires-orchard-in-a-sign-of-things-to-come/
+  domain: www.forbes.com
+  image: ""
+- curated_id: 8ece0ed5f0b6450cd32dd091b83ad76f
+  item_date: "2014-07-24 15:57:21"
+  title: ""
+  url: http://sdtimes.com/docker-buys-company-behind-fig/
+  domain: sdtimes.com
+  image: ""
+- curated_id: 5425ce91bc9247851352a65824c21c6b
+  item_date: "2014-08-13 00:00:00"
+  title: Intuit acquires itDuzzit
+  url: http://www.itduzzit.com/home/2014/08/13/intuit-acquires-itduzzit/
+  domain: www.itduzzit.com
+  image: ""
+- curated_id: cef76ab34aae0eecd30a907f65adca69
+  item_date: "2014-08-13 00:00:00"
+  title: 'Intuit Acquires itDuzzit: Syncing Data Between Cloud Apps Gets Easier'
+  url: https://developer.intuit.com/blog/2014/08/13/intuit-acquires-itduzzit-syncing-data-between-cloud-apps-gets-easier
+  domain: developer.intuit.com
+  image: ""
+- curated_id: 3ea17c648e678cd50555a3096c220c9f
+  item_date: "2014-10-13 00:00:00"
+  title: EMC Acquires Cloudscaling. The Expected Rationalization Continues
+  url: http://www.diversity.net.nz/emc-acquires-cloudscaling-the-expected-rationalization-continues/2014/10/13/
+  domain: www.diversity.net.nz
+  image: ""
+- curated_id: 79c652acc42078c3be096525d8bdf0a9
+  item_date: "2014-12-22 00:00:00"
+  title: 'Oracle?s at it again: Acquires data broker Datalogix'
+  url: https://gigaom.com/2014/12/22/oracles-at-it-again-acquires-data-broker-datalogix/
+  domain: gigaom.com
+  image: ""
+- curated_id: bd14d6246e1c5108e363f00dd7cd525b
+  item_date: "2014-12-22 00:00:00"
+  title: Oracle Has Acquired Datalogix (ORCL)
+  url: http://www.businessinsider.com/oracle-acquires-datalogix-2014-12
+  domain: www.businessinsider.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: 8ioDhMuEfXB1I41S3RoLFtHpvKnAwBYDO1pQYXmjBtdFH4mKRO123yrCCWR6123aW9i1116LoMOjnfV0a2PC6U123zbgsg117117
   item_date: "2015-01-06 00:00:00"
   title: Connecting Our History At The Digital Public Library of America Using APIs
@@ -73,23 +308,35 @@
   domain: nordicapis.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comusing-templates-for-documentation-driven-api-design.png
 - curated_id: dfpeX7taC2ZcEvHk8nOWTD7gcjfDUokg5p1tBJrVvtvA5Dy5cuxyXzD6aDowCGDTM336116G49ri7ZtOap0LE8RA117117
+<<<<<<< HEAD
   item_date: "2015-02-20 00:00:00"
   title: MuleSoft Releases RAML NET Parser Visual Studio Extension
   url: http://www.programmableweb.com/news/mulesoft-releases-raml-.net-parser-visual-studio-extension/2015/02/20
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsmulesoft-releases-raml--net-parser-visual-studio-extension20150220.png
 - curated_id: QqzGfbBYOWSLnbhVr1233waluDL6Xr7cjQEBbS48JH4h8DoJ3ItBTQgdk7NTYAIWphcizVBI8rG2eKp4rPUKNnTA117117
+=======
+>>>>>>> origin/gh-pages
   item_date: "2015-02-20 00:00:00"
-  title: LucyBot Eliminates CrossLanguage Programming Necessity
-  url: http://www.programmableweb.com/news/lucybot-eliminates-cross-language-programming-necessity/brief/2015/02/20
+  title: MuleSoft Releases RAML NET Parser Visual Studio Extension
+  url: http://www.programmableweb.com/news/mulesoft-releases-raml-.net-parser-visual-studio-extension/2015/02/20
   domain: www.programmableweb.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewslucybot-eliminates-cross-language-programming-necessitybrief20150220.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsmulesoft-releases-raml--net-parser-visual-studio-extension20150220.png
 - curated_id: STHZs1a123L9FCgfWP94I0Sc5SihdhKqiKdYRIR0PK4lESe9PXk51P18QI780lIAg454DCBfmE8UBsuB1qInUpEQ117117
   item_date: "2015-02-20 00:00:00"
   title: API Best Practices The Wrap Up
   url: http://blogs.mulesoft.com/dev/api-best-practices-wrap-up/
   domain: blogs.mulesoft.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-mulesoft-orgapi-best-practices-wrap-up.png
+<<<<<<< HEAD
+=======
+- curated_id: QqzGfbBYOWSLnbhVr1233waluDL6Xr7cjQEBbS48JH4h8DoJ3ItBTQgdk7NTYAIWphcizVBI8rG2eKp4rPUKNnTA117117
+  item_date: "2015-02-20 00:00:00"
+  title: LucyBot Eliminates CrossLanguage Programming Necessity
+  url: http://www.programmableweb.com/news/lucybot-eliminates-cross-language-programming-necessity/brief/2015/02/20
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewslucybot-eliminates-cross-language-programming-necessitybrief20150220.png
+>>>>>>> origin/gh-pages
 - curated_id: IIngeWuMGFGoJeAH2UXBSc2Gk6tk1hjLPM3H1nHX7uzGRz7kCQbVVspghX2XHAEjeDLnOvaOyVqzZgK0iq123ngA117117
   item_date: "2015-02-20 08:48:02"
   title: LucyBot  Get your APIs consumers moving faster
@@ -126,6 +373,29 @@
   url: http://nordicapis.com/what-makes-an-agile-api/
   domain: nordicapis.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comwhat-makes-an-agile-api.png
+<<<<<<< HEAD
+=======
+- curated_id: 0a4f37b9ef8a86c8e924d4554c3309e3
+  item_date: "2015-02-24 00:00:00"
+  title: 'Building With Authy And Twilio: Keeping Conversations Open And Security
+    Gaps Closed'
+  url: https://www.twilio.com/blog/2015/02/building-with-authy-and-twilio.html
+  domain: www.twilio.com
+  image: ""
+- curated_id: 0ddc4924e5d91df607311d2188a5dcdc
+  item_date: "2015-02-24 09:44:31"
+  title: Twilio Makes Its First Acquisition--Scoops Up Authy To Help Deliver Secure
+    Comms - Forbes
+  url: http://www.forbes.com/sites/benkepes/2015/02/24/twilio-makes-its-first-acquisition-scoops-up-authy-to-help-deliver-secure-comms/
+  domain: www.forbes.com
+  image: ""
+- curated_id: fc2a4ac71d29e07f0e9c3672590a8a8d
+  item_date: "2015-02-25 00:00:00"
+  title: Twilio Acquires Authy to Drive Two-Factor Authentication Adoption
+  url: http://www.programmableweb.com/news/twilio-acquires-authy-to-drive-two-factor-authentication-adoption/2015/02/25
+  domain: www.programmableweb.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: M3SzrZP3tXIBiyLw7ArriQ5uys04RtDs0xKGSp28b8ODwZIvkWpZ123uz5pT1wdMiI2D2xTze65Bu6S2rmUv123CRQ117117
   item_date: "2015-02-26 10:33:06"
   title: Bizcoder  Dont Design A Query String You Will One Day Regret
@@ -144,14 +414,34 @@
   url: http://apihandyman.io/hypermedia-api-maturity-model-part-i-hypermedia-ness/
   domain: apihandyman.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apihandyman-iohypermedia-api-maturity-model-part-i-hypermedia-ness.png
+<<<<<<< HEAD
+=======
+- curated_id: 9c661f559db565a216cf8af0a93ba70c
+  item_date: "2015-03-02 00:00:00"
+  title: Akamai Acquires Xerocole
+  url: https://www.akamai.com/us/en/about/news/press/2015-press/akamai-acquires-xerocole.jsp
+  domain: www.akamai.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: YS6zKe0TwWqSzPI123HfarhQvjhvVGqwgliCpMuTM2GSFPEZqIwLVRgykSdArZPWMT9ptBU116yzs3J8V5ojR28IHA117117
   item_date: "2015-03-02 00:00:00"
   title: Dropbox starts using POST and why this is poor API design
   url: https://evertpot.com/dropbox-post-api/
   domain: evertpot.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/evertpot-comdropbox-post-api.png
+<<<<<<< HEAD
 - curated_id: r9DeihR4jE4glOUzaSnNTaX5oh123lZpzfrzkakfpmUMysbQUHZMzJTKwiAVV9RdIhNy7vpaqxOSApSsnl350cHg117117
   item_date: "2015-03-02 00:00:00"
+=======
+- curated_id: aad554323384c1bd8bae4e11a85581ca
+  item_date: "2015-03-02 00:00:00"
+  title: PayPal acquires Paydiant, puts NFC into its Here readers
+  url: https://gigaom.com/2015/03/02/paypal-acquires-paydiant-puts-nfc-into-its-here-readers/
+  domain: gigaom.com
+  image: ""
+- curated_id: r9DeihR4jE4glOUzaSnNTaX5oh123lZpzfrzkakfpmUMysbQUHZMzJTKwiAVV9RdIhNy7vpaqxOSApSsnl350cHg117117
+  item_date: "2015-03-02 00:00:00"
+>>>>>>> origin/gh-pages
   title: Common Cases When Using SOAP Makes Sense
   url: http://nordicapis.com/common-cases-when-using-soap-makes-sense/
   domain: nordicapis.com
@@ -168,6 +458,7 @@
   url: http://radar.oreilly.com/2015/02/meta-design-the-intersection-of-art-design-and-computation.html
   domain: radar.oreilly.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/radar-oreilly-com201502meta-design-the-intersection-of-art-design-and-computation-html.png
+<<<<<<< HEAD
 - curated_id: p8tPzwzIDnd123tqNr8eWRjAV3GVqJaEIBsL8SeFZkHWrLO87MfjTdo3P2vRbEynyMZXKLSfgmZWsnRLytkwgNdA117117
   item_date: "2015-03-03 00:00:00"
   title: Dropbox Sparks Controversy With API Design Decision
@@ -176,6 +467,34 @@
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsdropbox-sparks-controversy-api-design-decisionanalysis20150303.png
 - curated_id: nPPSlUd3ATGDOhS45IbSlt1165BiAQ123OSoVTjdJR9NPlQSE8930I0DO9x123oMTA3fa4HMRIe2q5lfdSdm0EccqQfA117117
   item_date: "2015-03-03 00:00:00"
+=======
+- curated_id: 5aa631b08ec3d3c683c0954485b63d0a
+  item_date: "2015-03-03 00:00:00"
+  title: CA Technologies completes Layer 7 acquisition
+  url: http://www.datacentres.com/dc-news/ca-technologies-completes-layer-7-acquisition
+  domain: www.datacentres.com
+  image: ""
+- curated_id: f6fd35c4b320c26b5c30897be9f7999e
+  item_date: "2015-03-03 00:00:00"
+  title: OrgSync Acquired by iModules Software
+  url: http://feedproxy.google.com/~r/OrgsyncBlog/~3/iLYd6GFA1Mg/orgsync_is_acquired_by_imodules
+  domain: feedproxy.google.com
+  image: ""
+- curated_id: be72c0dfeebcaf88a3edd3e3eb2b4d17
+  item_date: "2015-03-03 00:00:00"
+  title: Box buys small security startup to court more risk-averse clients
+  url: https://gigaom.com/2015/03/03/box-buys-subspace-to-court-more-risk-averse-clients/
+  domain: gigaom.com
+  image: ""
+- curated_id: p8tPzwzIDnd123tqNr8eWRjAV3GVqJaEIBsL8SeFZkHWrLO87MfjTdo3P2vRbEynyMZXKLSfgmZWsnRLytkwgNdA117117
+  item_date: "2015-03-03 00:00:00"
+  title: Dropbox Sparks Controversy With API Design Decision
+  url: http://www.programmableweb.com/news/dropbox-sparks-controversy-api-design-decision/analysis/2015/03/03
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsdropbox-sparks-controversy-api-design-decisionanalysis20150303.png
+- curated_id: nPPSlUd3ATGDOhS45IbSlt1165BiAQ123OSoVTjdJR9NPlQSE8930I0DO9x123oMTA3fa4HMRIe2q5lfdSdm0EccqQfA117117
+  item_date: "2015-03-03 00:00:00"
+>>>>>>> origin/gh-pages
   title: My API Design Research
   url: http://apievangelist.com/2015/03/04/my-api-design-research/
   domain: apievangelist.com
@@ -186,12 +505,42 @@
   url: http://apigee.com/about/blog/developer/apigee-product-highlight-video-smartdocs
   domain: apigee.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-apigee-comdetailapigee_product_highlight_video_smartdocs.png
+<<<<<<< HEAD
+=======
+- curated_id: 97a23255615cb1299240f4cb13b569d7
+  item_date: "2015-03-04 00:00:00"
+  title: IBM powers up Watson with AlchemyAPI acquisition
+  url: http://www.zdnet.com/article/ibm-powers-up-watson-with-alchemyapi-acquisition/
+  domain: www.zdnet.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: ciiCirJ0y123juVazdFyqfEBHKhUfJvNtsDbC3VRGXegZhbVLNmuNllYvag9YIbs11657xdhEbaj5iXf9jhIN6EA116A117117
   item_date: "2015-03-04 00:00:00"
   title: POST effyouthisistherighturl  RESTful API Design
   url: http://blog.cloud-elements.com/post-effyouthisistherighturl-restful-api-design
   domain: blog.cloud-elements.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloud-elements-compost-effyouthisistherighturl-restful-api-design.png
+<<<<<<< HEAD
+=======
+- curated_id: 4b0e1c1f8375d93a8039eed19bd345d6
+  item_date: "2015-03-04 00:00:00"
+  title: SocketPlane Excited to Be Joining Docker to Collaborate with Networking Ecosystem
+  url: https://blog.docker.com/2015/03/socketplane-excited-to-be-joining-docker-to-collaborate-with-networking-ecosystem/
+  domain: blog.docker.com
+  image: ""
+- curated_id: adc0ffb78c34a5a3062239a64a4bd058
+  item_date: "2015-03-04 00:00:00"
+  title: IBM Acquires AlchemyAPI
+  url: https://developer.ibm.com/bluemix/2015/03/04/ibm-acquires-alchemyapi/
+  domain: developer.ibm.com
+  image: ""
+- curated_id: 67c02566aa07a0a5dd8f4bcb3f9668fc
+  item_date: "2015-03-04 00:00:00"
+  title: IBM Acquires AlchemyAPI, Enhancing Watson?s Deep Learning Capabilities
+  url: http://www-03.ibm.com/press/us/en/pressrelease/46205.wss
+  domain: www-03.ibm.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: DkjqkGmoUElW1VB3a0zrWuLPEGn64SPBJLacD4du4XBNZun123gK1gVtFxROpFdOgr12395W4my1I4HgNUK116qB116c9Q117117
   item_date: "2015-03-04 14:59:47"
   title: ""
@@ -217,12 +566,42 @@
   url: https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/
   domain: betimdrenica.wordpress.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/betimdrenica-wordpress-com20150309ideal-rest-api-design.png
+<<<<<<< HEAD
+=======
+- curated_id: ca8bed6f13c97b38edf456dead383203
+  item_date: "2015-03-09 00:00:00"
+  title: IBM Acquires AlchemyAPI to Bolster Watson
+  url: http://www.programmableweb.com/news/ibm-acquires-alchemyapi-to-bolster-watson/2015/03/09
+  domain: www.programmableweb.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: KifJPHJjge116hzyNwyAPGw6RcPJ28rB1232hRPvkVRxsVRiP3aBPqPIi9rDLULK9BozVBsy0HhANdyhMtGjTvc03w117117
   item_date: "2015-03-10 00:00:00"
   title: Facebook Applies Versioning Strategy to Marketing API
   url: http://www.programmableweb.com/news/facebook-applies-versioning-strategy-to-marketing-api/2015/03/10
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsfacebook-applies-versioning-strategy-to-marketing-api20150310.png
+<<<<<<< HEAD
+=======
+- curated_id: 5bc97cd8b7d29f0663f4b0f1a9ebcfd5
+  item_date: "2015-03-10 00:00:00"
+  title: Twitter snaps up live video streaming app developer Periscope
+  url: http://www.zdnet.com/article/twitter-snaps-up-live-video-streaming-app-developer-periscope/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: c0abec65354971677d69d83590e9e35d
+  item_date: "2015-03-12 00:00:00"
+  title: Kitematic a Docker GUI joins the Docker family
+  url: https://blog.docker.com/2015/03/kitematic-a-docker-gui-joins-the-docker-family/
+  domain: blog.docker.com
+  image: ""
+- curated_id: a7c5c02ccd49f0fe0a8ea2bba4a0d220
+  item_date: "2015-03-12 00:00:00"
+  title: Amazon Web Services nabs Internet of Things developer platform 2lemetry
+  url: http://www.zdnet.com/article/amazon-web-services-nabs-internet-of-things-developer-platform-2lemetry/
+  domain: www.zdnet.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: ievylumZCSmLT8bMOfL8QimGjx8HYIzAQxhZJgQuxdXnhHMrP6Al6ES2WUP7I2MW80HEDit8Xt2wRQRcGOCMSQ117117
   item_date: "2015-03-12 00:03:20"
   title: Augmenting A Read Only API With AN External POST PUT And DELETE
@@ -235,18 +614,27 @@
   url: https://www.linkedin.com/pulse/10-usability-lessons-apis-frederik-willaert
   domain: www.linkedin.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-linkedin-compulse10-usability-lessons-apis-frederik-willaert.png
-- curated_id: 8N0vORPBzAphlJwelOIm1vZ92lcGcSyizjQMWUYVuSJooR9KAelEcO6VfzvU2H7zYM0qOxbs916AceItWLCK116g117117
+- curated_id: f78e99b6f425cf57a9deabd856739e09
   item_date: "2015-03-16 00:00:00"
-  title: Designing a Web API
-  url: http://restlet.com/blog/2015/03/16/designing-a-web-api/
-  domain: restlet.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/restlet-comblog20150316designing-a-web-api.png
+  title: LinkedIn acquires HR startup Careerify
+  url: http://thenextweb.com/insider/2015/03/16/linkedin-acquires-hr-startup-careerify/
+  domain: thenextweb.com
+  image: ""
 - curated_id: Av2FJeSKCad0VEgYgGkjP7i4DjkK1Vi5fLsEnE116x4Jxibz2rfvd4ejMC116RixcyQzOqGAgHnZnxo1zKaUrKn4116Q117117
   item_date: "2015-03-16 00:00:00"
   title: Why Your APIs Need Design Help
   url: http://www.digitalgov.gov/2015/03/16/why-your-apis-need-design-help/
   domain: www.digitalgov.gov
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-digitalgov-gov20150316why-your-apis-need-design-help.png
+<<<<<<< HEAD
+=======
+- curated_id: 8N0vORPBzAphlJwelOIm1vZ92lcGcSyizjQMWUYVuSJooR9KAelEcO6VfzvU2H7zYM0qOxbs916AceItWLCK116g117117
+  item_date: "2015-03-16 00:00:00"
+  title: Designing a Web API
+  url: http://restlet.com/blog/2015/03/16/designing-a-web-api/
+  domain: restlet.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/restlet-comblog20150316designing-a-web-api.png
+>>>>>>> origin/gh-pages
 - curated_id: oaScIuYJH95jMntmiUXlBzUhwBWPWLLdx7MEZk1wjiF89dehNdvKoLmD6RcQA9rcHJz116MXkvWkA116TIhjufe5fA117117
   item_date: "2015-03-17 00:00:00"
   title: 20 API Design Tips to Stop Annoying Developers
@@ -301,12 +689,36 @@
   url: https://www.infoq.com/minibooks/emag-web-api
   domain: www.infoq.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comminibooksemag-web-api.png
+<<<<<<< HEAD
+=======
+- curated_id: 56e58296af15620339c1e5ed83aebc14
+  item_date: "2015-04-01 00:00:00"
+  title: Salesforce buys mobile authentication startup Toopher
+  url: http://venturebeat.com/2015/04/01/salesforce-buys-mobile-authentication-startup-toopher/
+  domain: venturebeat.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: jDUonx123In6H7Y1169LPLlVkjcCb2BbcqHKmhFLzU05L69InkCZKIg0ru7o862116MCa6nxLzzIBE8Cvwzd123m2AgP9Q117117
   item_date: "2015-04-02 00:00:00"
   title: How to Decide How Many HTTP Status Codes Your API Needs
   url: http://www.programmableweb.com/news/how-to-decide-how-many-http-status-codes-your-api-needs/elsewhere-web/2015/04/02
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewshow-to-decide-how-many-http-status-codes-your-api-needselsewhere-web20150402.png
+<<<<<<< HEAD
+=======
+- curated_id: a6124957a3b164852c6a9c6588bbd60b
+  item_date: "2015-04-02 00:00:00"
+  title: Twitter acquires and shutters developer-tracking service tenXer
+  url: http://venturebeat.com/2015/04/02/twitter-acquires-and-shutters-developer-tracking-service-tenxer/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 9e0f3c4b403d47076017b6bf46d2d7d3
+  item_date: "2015-04-06 00:00:00"
+  title: Kairos Acquires IMRSV, Releases Facial Biometrics Tools
+  url: http://www.programmableweb.com/news/kairos-acquires-imrsv-releases-facial-biometrics-tools/2015/04/06
+  domain: www.programmableweb.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: Dr1hw1rslo116khwnZp8ji0ekdQPZcY6Qs2123g116CiXMgmYiNklGzt116H5Dus9foB1238MckwR5FH6ihgJM31oqT123IlrQ117117
   item_date: "2015-04-06 00:00:00"
   title: JSON API Spec Goes Through The Hacker News Gauntlet
@@ -318,6 +730,12 @@
   title: In a REST world theres room for nonREST APIs
   url: http://www.programmableweb.com/news/rest-world-there%E2%80%99s-room-non-rest-apis/analysis/2015/04/07
   domain: www.programmableweb.com
+  image: ""
+- curated_id: cf5d7fd9af20b342e464981d30be41f6
+  item_date: "2015-04-07 00:00:00"
+  title: Get Satisfaction Joins the Sprinklr Family
+  url: http://blog.getsatisfaction.com/2015/04/07/get-satisfaction-joins-the-sprinklr-family/
+  domain: blog.getsatisfaction.com
   image: ""
 - curated_id: ffORnFfOSjvjHO3YlmIaSkjP9LxwljppL0kwnMO70SvUO116QOhlbW6LzcJF2bcdwTjSF0Av1239qBIasNoGu3C59g117117
   item_date: "2015-04-08 00:00:00"
@@ -337,24 +755,69 @@
   url: http://www.bizcoder.com:80/solving-dropbox-s-url-problems
   domain: www.bizcoder.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-bizcoder-com:80solving-dropbox-s-url-problems.png
+<<<<<<< HEAD
+=======
+- curated_id: 685e0e5dfb3bbe3af1d6ee34856339ba
+  item_date: "2015-04-10 00:00:00"
+  title: Amazon buys Amiato, a startup that built a cloud data warehouse before Redshift
+    came out
+  url: http://venturebeat.com/2015/04/10/amazons-latest-acquisition-amiato-built-a-cloud-data-warehouse-before-amazon-launched-redshift/
+  domain: venturebeat.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: gEVAgDovU81WXMSGMX2ZsHbD4nSnYpLHtpnNl51239Hi0oJDydUY37Ii4L0JRS3qxZTo689Hflaf6clIpltlMkcA117117
   item_date: "2015-04-10 18:34:00"
   title: Bizcoder  Solving Dropboxs URL Problems
   url: http://www.bizcoder.com/solving-dropbox-s-url-problems
   domain: www.bizcoder.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-bizcoder-comsolving-dropbox-s-url-problems.png
+<<<<<<< HEAD
+=======
+- curated_id: 7046b8b33a79cb5c65f760316354eb02
+  item_date: "2015-04-13 00:00:00"
+  title: IBM acquires health tech startups Explorys and Phytel
+  url: http://venturebeat.com/2015/04/13/ibm-acquires-health-tech-startups-explorys-and-phytel/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 1902b3259744c603474ae2a0ca4d242c
+  item_date: "2015-04-14 00:00:00"
+  title: Box acquires interactive 3D viewing startup Verold, will integrate tech into
+    its enterprise platform
+  url: http://venturebeat.com/2015/04/14/box-acquires-interactive-3d-viewing-startup-verold-will-integrate-tech-into-its-enterprise-platform/
+  domain: venturebeat.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: o2dtUGBAyxBzRaBWBH1yPdBpkCy6Et116VMFEHfLDhlBFV0bk1zMqVnbpLEEL2m1Nxz88Kd116HvjRA116yKT2TwFvrA117117
   item_date: "2015-04-14 00:00:00"
   title: API Part of the Creative Palette
   url: http://nordicapis.com/apis-part-of-the-creative-palette/
   domain: nordicapis.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comapis-part-of-the-creative-palette.png
+<<<<<<< HEAD
+=======
+- curated_id: f69a6f9b74aa5e6aae9ff84c20c40c02
+  item_date: "2015-04-14 00:00:00"
+  title: Microsoft acquires mobile business intelligence startup Datazen, plans to
+    integrate tech into Power BI
+  url: http://venturebeat.com/2015/04/14/microsoft-acquires-mobile-business-intelligence-startup-datazen-plans-to-integrate-tech-into-power-bi/
+  domain: venturebeat.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: WRytBnqKOk116Xg4u4ThlMWo2Mn7f4bVL2kULNcjLxtOuPp116HkGVGR3si5WCiBPI7cn4PfDLC5c441LmjgyQd25w117117
   item_date: "2015-04-19 00:00:00"
   title: REST API design tips
   url: https://kwtrnka.wordpress.com/2015/04/20/rest-api-design-tips/
   domain: kwtrnka.wordpress.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/kwtrnka-wordpress-com20150420rest-api-design-tips.png
+<<<<<<< HEAD
+=======
+- curated_id: cb917ec0cb8d0662f8f29a1e38df6703
+  item_date: "2015-04-20 00:00:00"
+  title: CenturyLink is acquiring cloud-database startup Orchestrate
+  url: http://venturebeat.com/2015/04/20/centurylink-is-acquiring-cloud-database-startup-orchestrate/
+  domain: venturebeat.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: ZdkU4NwtEn9tv0Pxxb7Y8agWWq8p4yIumyy4imay7T0faHfbH6F8nwuxkeCwsVvIZeNQURuK2Wm7d0E8UpnGcg117117
   item_date: "2015-04-20 00:00:00"
   title: Introduction to Apiary Overview of Apiary and How to Create APIs
@@ -367,6 +830,12 @@
   url: http://cloud-elements.com/http-verbs-demystified-patch-put-and-post/
   domain: cloud-elements.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloud-elements-comhttp-verbs-demystified-patch-put-and-post.png
+- curated_id: 5f9fc1bc3c4244ec1673a210668a751a
+  item_date: "2015-04-21 00:00:00"
+  title: CenturyLink Buys Database-as-a-Service Firm Orchestrate
+  url: http://www.datacenterknowledge.com/archives/2015/04/21/centurylink-buys-database-as-a-service-firm-orchestrate/
+  domain: www.datacenterknowledge.com
+  image: ""
 - curated_id: 123K4sLNI8Iq3J57G4P3qvRyS8luo116gzQGkQuop6gF6DB116123GidYE0116gbQ123UoPh9ftTYFXZYcgO0PkmTkQajR7KwQ117117
   item_date: "2015-04-23 00:00:00"
   title: The data the hypermedia and the documentation
@@ -398,6 +867,27 @@
   url: http://apievangelist.com/2015/05/05/guest-post-why-the-api-pattern-is-broken-and-how-we-can-fix-it/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150505guest-post-why-the-api-pattern-is-broken-and-how-we-can-fix-it.png
+<<<<<<< HEAD
+=======
+- curated_id: 4693fae7ef1cf8991b4b21fcee465f57
+  item_date: "2015-05-06 00:00:00"
+  title: App Annie Brings You More Usage Data  Acquires Mobidia
+  url: https://www.appannie.com/insights/app-annie-acquires-mobidia/
+  domain: www.appannie.com
+  image: ""
+- curated_id: 397961a56e7763b3e8a64271933be2f2
+  item_date: "2015-05-07 00:00:00"
+  title: Cisco buys Tropo, eyes collaboration platform as a service
+  url: http://www.zdnet.com/article/cisco-buys-tropo-eyes-collaboration-platform-as-a-service/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 4d813b6f8e38f4d9e4487bccd986e8fc
+  item_date: "2015-05-07 00:00:00"
+  title: Tropo joins Cisco to Power next-gen collaboration APIs
+  url: https://www.tropo.com/2015/05/tropo-joins-cisco-to-power-next-gen-collaboration-apis/
+  domain: www.tropo.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: rd9nWuoEnhIKHQVglT2Gc1bi0HzKIxA6dqL116jyZuoJOTuAzpbWFZsAIphuKeCKCedsGTrlGdESRXrCSdhORNYg117117
   item_date: "2015-05-08 00:00:00"
   title: Nearly all web APIs get paging wrong
@@ -429,8 +919,9 @@
   url: http://restlet.com/blog/2015/05/20/restlet-and-smartbear-partner-to-deliver-restlet-studio-plugin-for-ready-api/
   domain: restlet.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/restlet-comblog20150520restlet-and-smartbear-partner-to-deliver-restlet-studio-plugin-for-ready-api.png
-- curated_id: aSdL9MjYhohCUm22j7gioM123xw9NVf5j952Lu80Elw32J8wGj8ePV24T2zSEQAvUYliq1qZuYPHNl9CPl8nbNjQ117117
+- curated_id: 0RlbclclakYqrpBkU1116CCDN6IbxoulxNCGvTLxNE8P1qJSRIwHMIPiIH0diua4OP116MJnWyKkQf6zf0116jZiWhYw117117
   item_date: "2015-05-21 00:00:00"
+<<<<<<< HEAD
   title: Apigee adds some Swagger to API design
   url: http://www.pcadvisor.co.uk/news/software/apigee-adds-some-swagger-to-api-design-3612750/
   domain: www.pcadvisor.co.uk
@@ -447,6 +938,30 @@
   url: http://nordicapis.com/7-api-design-lessons-world-tour-roundup/
   domain: nordicapis.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-com7-api-design-lessons-world-tour-roundup.png
+=======
+  title: Apigee API Studio Designing Testing and Sharing APIs
+  url: http://www.infoq.com/news/2015/05/apigee-api-studio
+  domain: www.infoq.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comnews201505apigee-api-studio.png
+- curated_id: Bs2hh71239NRJJ123123IBB9wcK7NZJZjhEIz1Hea67EEI0KB35123j28NaT08jBbSGxsarnQW116DhQ721164116Pm7tF2Ipn5Q117117
+  item_date: "2015-05-21 00:00:00"
+  title: 7 Important API Design Lessons
+  url: http://nordicapis.com/7-api-design-lessons-world-tour-roundup/
+  domain: nordicapis.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-com7-api-design-lessons-world-tour-roundup.png
+- curated_id: aSdL9MjYhohCUm22j7gioM123xw9NVf5j952Lu80Elw32J8wGj8ePV24T2zSEQAvUYliq1qZuYPHNl9CPl8nbNjQ117117
+  item_date: "2015-05-21 00:00:00"
+  title: Apigee adds some Swagger to API design
+  url: http://www.pcadvisor.co.uk/news/software/apigee-adds-some-swagger-to-api-design-3612750/
+  domain: www.pcadvisor.co.uk
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-pcadvisor-co-uknewssoftware3612750apigee-adds-some-swagger-to-api-design.png
+- curated_id: 9d7a3c7bc60de94b246a9d4775787d1e
+  item_date: "2015-05-26 00:00:00"
+  title: Gigaom.com Acquired by Knowingly Corp
+  url: https://gigaom.com/2015/05/26/gigaom-com-acquired-by-knowingly-corp/
+  domain: gigaom.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: yyyQ2sx4byR5DrIIg8JCp5MyS2QoGlHKlcHtj4SxukmFvt28umPU9Hi7123aXpTqQc4ev12zNus9ayFlqCNhgKbA117117
   item_date: "2015-05-26 00:00:00"
   title: Article From Doodles to Delivery  An API Design Process
@@ -459,6 +974,47 @@
   url: http://blog.cloud-elements.com/error-handling-restful-api-design-part-iii
   domain: blog.cloud-elements.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloud-elements-comrestful-api-design-part-iii-error-handling.png
+<<<<<<< HEAD
+=======
+- curated_id: 88fd70d10727f3215f5f3297de2ce19f
+  item_date: "2015-05-26 00:00:00"
+  title: HP acquires ConteXtream to grow cloud services for CSPs
+  url: http://www.zdnet.com/article/hp-acquires-contextream-to-grow-cloud-services-for-csps/#ftag=RSSbaffb68
+  domain: www.zdnet.com
+  image: ""
+- curated_id: d740c15242a8bef424fcdca1841355e4
+  item_date: "2015-05-26 00:00:00"
+  title: HP buys software-defined networking startup ConteXtream
+  url: http://venturebeat.com/2015/05/26/hp-buys-software-defined-networking-startup-contextream/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 741c02975eb3db15a8bea60a535d8b07
+  item_date: "2015-05-27 00:00:00"
+  title: Palo Alto Networks acquires cybersecurity company CirroSecure
+  url: http://www.zdnet.com/article/palo-alto-networks-acquires-cirrosecure-q3-2015-earnings/#ftag=RSSbaffb68
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 23926adec87d06fa202dde6dd01e7a4a
+  item_date: "2015-05-28 00:00:00"
+  title: Gracenote expands its media metadata platform into sports with the $54M acquistion
+    of 2 data firms
+  url: http://venturebeat.com/2015/05/28/gracenote-expands-its-media-metadata-platform-into-sports-with-the-54m-acquistion-of-2-data-firms/
+  domain: venturebeat.com
+  image: ""
+- curated_id: f762977a879e0af30417b2c2ba34129c
+  item_date: "2015-05-28 00:00:00"
+  title: Google acquires mobile app performance startup Pulse.io
+  url: http://venturebeat.com/2015/05/28/google-acquires-mobile-app-performance-startup-pulse-io/
+  domain: venturebeat.com
+  image: ""
+- curated_id: eafdaf449fa5e7636577c0d31c9e665b
+  item_date: "2015-05-29 00:00:00"
+  title: Salesforce acquires smart calendar app Tempo AI, will shut it down on June
+    30
+  url: http://venturebeat.com/2015/05/29/salesforce-acquires-smart-calendar-app-tempo-ai-will-shut-it-down-on-june-30/
+  domain: venturebeat.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: yys0JrQG4GKZQYqRVGPCE7FBtxQeMrffOGJs2xUHIKaUcHOxHdb3Fhv1123oOB14PLPIUEwG7y82ETldawQ5uYKQ117117
   item_date: "2015-05-30 00:00:00"
   title: How to build APIs efficiently
@@ -471,6 +1027,21 @@
   url: http://www.infoq.com/articles/power-of-raml
   domain: www.infoq.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comarticlespower-of-raml.png
+<<<<<<< HEAD
+=======
+- curated_id: e1a4ace2eabdeb979d1affbdc51f811c
+  item_date: "2015-06-02 00:00:00"
+  title: Microsoft confirms acquisition of Wunderlist app maker 6Wunderkinder
+  url: http://venturebeat.com/2015/06/02/microsoft-confirms-its-acquisition-of-wunderlist-app-maker-6wunderkinder/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 04a32ddabf7b20e6e36054021c899cd4
+  item_date: "2015-06-02 12:03:15"
+  title: Our Future, Wunderlist Joins Microsoft
+  url: https://www.wunderlist.com/blog/our-future-wunderlist-joins-microsoft/
+  domain: www.wunderlist.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: 9SrBNQiYw9IQLh4zPSgEOtrthq3pG116r7z7WuamyXkcDdtZFZ9PP90s8CJluutkBZPTpKCfY116JDGxGUpuzcee9A117117
   item_date: "2015-06-03 00:00:00"
   title: Integrations are Hard Part II API Resources Search and Pagination
@@ -531,6 +1102,21 @@
   url: https://blog.apiary.io/2015/06/09/Decoupling-the-Mind-of-the-API-Designer
   domain: blog.apiary.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-apiary-io20150609decoupling-the-mind-of-the-api-designer.png
+<<<<<<< HEAD
+=======
+- curated_id: a64553c7101f467647f5237e17bef530
+  item_date: "2015-06-17 11:13:24"
+  title: Twitter has acquired Whetlabs to enhance its machine learning
+  url: http://thenextweb.com/insider/2015/06/17/twitter-has-acquired-whetlabs-to-enhance-its-machine-learning/
+  domain: thenextweb.com
+  image: ""
+- curated_id: f2e4451ede4725a82d97e085c9a06db4
+  item_date: "2015-06-19 00:00:00"
+  title: BugBuster has been acquired by AppDynamics!
+  url: http://blog.bugbuster.com/2015/06/19/bugbuster-has-been-acquired-by-appdynamics/
+  domain: blog.bugbuster.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: DshiUEey7ptsMLb3DCi4123rDx6zzGLUYurwHIHcuu123pt7dgmnRahFexknkT116kcIhV1jSsa80awQS84qJssk116123RA117117
   item_date: "2015-06-19 00:00:00"
   title: Lessons learnt from shipping APIs for Microsofts cloud platform
@@ -544,6 +1130,22 @@
   url: http://apievangelist.com/2015/06/23/breaking-down-publication-references-with-the-global-change-information-system-api/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150623breaking-down-publication-references-with-the-global-change-information-system-api.png
+<<<<<<< HEAD
+=======
+- curated_id: 0f0274c89b7ad9259cf3767ad0bd4e62
+  item_date: "2015-06-24 00:00:00"
+  title: Spotify acquires Seed Scientific, a data science consulting firm
+  url: http://venturebeat.com/2015/06/24/spotify-acquires-seed-scientific-a-data-science-consulting-firm/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 21aa8848f89a642791dc3abb90d0ba12
+  item_date: "2015-06-29 00:00:00"
+  title: Uber Acquires Part of Bing?s Mapping Assets, Will Absorb Around 100 Microsoft
+    Employees
+  url: http://techcrunch.com/2015/06/29/uber-acquires-part-of-bings-mapping-assets-will-absorb-around-100-microsoft-employees/
+  domain: techcrunch.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: yU6uZuemPLgmYnXzfb123vDIiVb4vXyQBbdsqOS123lA6Qa4FRoOyzyDuKjOorHF7CDlMOqqUdLB4z6R1ntArRiYFQ117117
   item_date: "2015-06-29 00:00:00"
   title: The API Design Tooling I Have Included In My Research
@@ -574,6 +1176,28 @@
   url: http://apievangelist.com/2015/06/30/the-api-design-tooling-i-have-included-in-my-research/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150630the-api-design-tooling-i-have-included-in-my-research.png
+<<<<<<< HEAD
+=======
+- curated_id: f6526f7669c6ab27c1f01c78285d4a7b
+  item_date: "2015-07-01 00:00:00"
+  title: PayPal buys Xoom for $890 million to strengthen hold in the money transfer
+    business
+  url: http://thenextweb.com/insider/2015/07/02/paypal-buys-xoom-for-890-million-to-strengthen-hold-in-the-money-transfer-business/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 608572a4d42eadcb44821917e3aabcb6
+  item_date: "2015-07-01 00:00:00"
+  title: PayPal acquires international money transfer service Xoom for $890M
+  url: http://venturebeat.com/2015/07/01/paypal-acquires-international-money-transfer-service-xoom-for-890m/
+  domain: venturebeat.com
+  image: ""
+- curated_id: c26533c75ec897d573f12c69ca678f0c
+  item_date: "2015-07-07 00:00:00"
+  title: Nintex Acquires Drawloop Technologies
+  url: http://www.drawloop.com/blog/2015/07/07/nintex-acquires-drawloop-technologies/
+  domain: www.drawloop.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: jb6SYacs3WULnkJa4vVm5ayGW6VYawwte116biwcZ9SpjGUuHRfo2UD1rw5zV2fYIc988D9ihNVNhpjBuL1236LmKg117117
   item_date: "2015-07-07 00:00:00"
   title: My API Design Research Distilled Down As Single PDF Guide
@@ -655,24 +1279,78 @@
   url: http://apievangelist.com/2015/08/31/a-quick-example-of-an-api-provider-putting-content-type-negotiation-to-work/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150831a-quick-example-of-an-api-provider-putting-content-type-negotiation-to-work.png
+<<<<<<< HEAD
+=======
+- curated_id: da1698e4691acb59121917f64abe297a
+  item_date: "2015-09-02 00:00:00"
+  title: Salesforce acquires application development consulting firm AKTA
+  url: http://venturebeat.com/2015/09/02/salesforce-signs-definitive-agreement-to-acquire-digital-experience-consultancy-akta/
+  domain: venturebeat.com
+  image: ""
+- curated_id: e13e7acf13655fcd4a5e6249416f1e93
+  item_date: "2015-09-03 00:00:00"
+  title: Amazon buys video processing company Elemental Technologies to bolster AWS
+  url: http://venturebeat.com/2015/09/03/amazon-buys-video-processing-company-elemental-technologies-will-launch-new-aws-services/
+  domain: venturebeat.com
+  image: ""
+- curated_id: ed721bb392e608d7ef42ac7ac558df93
+  item_date: "2015-09-10 00:00:00"
+  title: IBM Acquires StrongLoop to Extend Enterprise Reach using IBM Cloud
+  url: http://www-03.ibm.com/press/us/en/pressrelease/47577.wss
+  domain: www-03.ibm.com
+  image: ""
+- curated_id: 98c8aeaa08f93e23858a1b82f5ff8b40
+  item_date: "2015-09-10 00:00:00"
+  title: IBM Acquires StrongLoop to Extend Enterprise Reach using IBM Cloud
+  url: https://strongloop.com/strongblog/ibm-acquires-strongloop-to-extend-enterprise-reach-using-ibm-cloud/
+  domain: strongloop.com
+  image: ""
+- curated_id: 2e8bff5c13fcf8abb74b9837e0e0f54c
+  item_date: "2015-09-10 00:00:00"
+  title: ?Demandbase acquires WhoToo, adds behavioral data
+  url: http://zdnet.com.feedsportal.com/c/35462/f/675663/s/49bb6c40/sc/28/l/0L0Szdnet0N0Carticle0Cdemandbase0Eacquires0Ewhotoo0Eadds0Ebehavioral0Edata0C0Tftag0FRSSbaffb68/story01.htm
+  domain: zdnet.com.feedsportal.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: Ms3Pt068sia9Tnpe5SIB942hfNOh9HjemPb116Ib7Ga5isc116M30aDISc1l6r3oq0nZ9IrHjKw116123X6mJp116raavJ0w117117
   item_date: "2015-09-11 19:10:39"
   title: REST in AEM by Roy Fielding
   url: http://www.slideshare.net/AEMHub2014/rest-in-aem-by-roy-fielding
   domain: www.slideshare.net
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-slideshare-netaemhub2014rest-in-aem-by-roy-fielding.png
-- curated_id: CnLjMfKaXSPg2ohD6mjuZfGt8NQQPZ0cC3cdPpVeseooWawQK71QVpT0116KhdUhNMfd8PaD8NpeNQStNpxivGXA117117
-  item_date: "2015-09-13 00:00:00"
-  title: Architectural Styles for APIs SOAP REST and RPC
-  url: http://api-university.com/blog/styles-for-apis-soap-rest-and-rpc/
-  domain: api-university.com
-  image: ""
 - curated_id: AOKBxVnTNmpbS116dT7zC0116YY7ZWkobOEzHUoEAgrupOZlxW4oi4bCPHIjJ1123ouEggVcbR5mvS1Hp123DdMHThJrlw117117
   item_date: "2015-09-13 00:00:00"
   title: There Is A Big Opportunity Right Now When It Comes To API Design Tooling
   url: http://apievangelist.com/2015/09/14/there-is-a-big-opportunity-right-now-when-it-comes-to-api-design-tooling
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150914there-is-a-big-opportunity-right-now-when-it-comes-to-api-design-tooling.png
+<<<<<<< HEAD
+=======
+- curated_id: CnLjMfKaXSPg2ohD6mjuZfGt8NQQPZ0cC3cdPpVeseooWawQK71QVpT0116KhdUhNMfd8PaD8NpeNQStNpxivGXA117117
+  item_date: "2015-09-13 00:00:00"
+  title: Architectural Styles for APIs SOAP REST and RPC
+  url: http://api-university.com/blog/styles-for-apis-soap-rest-and-rpc/
+  domain: api-university.com
+  image: ""
+- curated_id: c7cd4a0abd806a3dfbf7a66755e2de6c
+  item_date: "2015-10-21 00:00:00"
+  title: Docker acquires container deployment startup Tutum
+  url: http://venturebeat.com/2015/10/21/docker-acquires-container-deployment-startup-tutum/
+  domain: venturebeat.com
+  image: ""
+- curated_id: e7c8ca2e1d8865c2bcbf983a8c0082a2
+  item_date: "2015-10-21 00:00:00"
+  title: Docker Acquires Tutum
+  url: https://www.infoq.com/news/2015/10/docker-acquires-tutum
+  domain: www.infoq.com
+  image: ""
+- curated_id: b32a2a4d2044f9510306792a89390ed6
+  item_date: "2015-11-05 00:00:00"
+  title: New Relic buys devops monitoring tool Opsmatic
+  url: http://venturebeat.com/2015/11/05/new-relic-buys-devops-monitoring-tool-opsmatic/
+  domain: venturebeat.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: OZpnbFT1163F4zCLYvsOGYUkUBJBLMoCMm9oVL5WgOg3S5hxmSRFbIZ3jrZHJ7dOe2cWmjxQ2Ws6WRkwXQJ116rbjQ117117
   item_date: "2015-11-24 00:00:00"
   title: API Design Using Behavior Driven Development
@@ -775,12 +1453,36 @@
   url: http://www.programmableweb.com/news/apiary.io-now-features-swagger-support/brief/2016/01/19
   domain: www.programmableweb.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: cf814c21923b3b4e0bc7daf71fc40a04
+  item_date: "2016-01-19 00:00:00"
+  title: Axway Acquires Appcelerator to Build Out Mobile Platform
+  url: http://www.eweek.com/enterprise-apps/axway-acquires-appcelerator-to-build-out-mobile-platform.html
+  domain: www.eweek.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: LdEjivBOKDGP6fyrgDbtpSMKX5Vn3iKzWMVYX1168UW116aP06giaaYrQkG4X3lCnrHHQ0hDqouYNCsI8rPdWRfDYA117117
   item_date: "2016-01-21 00:00:00"
   title: Paging in ASPNET Web API
   url: http://www.codeproject.com/Articles/1073488/Paging-in-ASP-NET-Web-API
   domain: www.codeproject.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: 8d138974eea54bab1be8e2d3e4a587cd
+  item_date: "2016-01-21 00:00:00"
+  title: IBM acquires UStream, will form new cloud video unit
+  url: http://www.digitaljournal.com/business/business/ibm-acquires-ustream-will-form-new-cloud-video-unit/article/455424
+  domain: www.digitaljournal.com
+  image: ""
+- curated_id: bd31a4a7a4447cac02966dfa62d1131c
+  item_date: "2016-01-21 00:00:00"
+  title: Docker acquires Unikernel Systems to go beyond Linux containers
+  url: http://venturebeat.com/2016/01/21/docker-acquires-unikernel-systems-to-go-beyond-linux-containers/
+  domain: venturebeat.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: s2123UxfpiR5ezjCr0MTu0cPwOyKIayR2TvGoW123hmc7jgBu9ndpYA9ilE0FsSHfx6siP20B3IJlhCoe123x2SIdWhQ117117
   item_date: "2016-01-25 10:17:37"
   title: Reverse Engineering APIs From The Common APIs Models We Know
@@ -811,6 +1513,27 @@
   url: https://developer.intuit.com/hub/blog/2016/02/04/rest-essentials-for-the-quickbooks-api
   domain: developer.intuit.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: 8a15e5d5a422efa9423b1478ed30e55c
+  item_date: "2016-02-12 00:00:00"
+  title: Runkeeper acquired by sportswear giant Asics
+  url: http://venturebeat.com/2016/02/12/runkeeper-acquired-by-sports-shoes-giant-asics/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 145c56550a3ba05f68a402b20e9f3a4f
+  item_date: "2016-02-12 00:00:00"
+  title: BandPage has been acquired!  We?re joining YouTube!
+  url: https://blog.bandpage.com/2016/02/12/youtube-bandpage-2016-2-12/
+  domain: blog.bandpage.com
+  image: ""
+- curated_id: 722902fb4634564f5e18e26885e2c40c
+  item_date: "2016-02-12 00:00:00"
+  title: Amazon Web Services to Acquire NICE
+  url: https://aws.amazon.com/blogs/aws/amazon-web-services-to-acquire-nice/
+  domain: aws.amazon.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: CdWJtyhwhUwoXzK4kBzqSULod5kwIPUL123oqT8ByIqBb07WEgh3wX123116TJgmXGbFicdkwlyBHpFK1237cWBTBElqbw117117
   item_date: "2016-02-15 00:00:00"
   title: Sharing and saving your Web API design project in the cloud
@@ -847,12 +1570,39 @@
   url: http://launchany.com/resolving-the-frontendbackend-api-design-conflict/
   domain: launchany.com
   image: ""
+- curated_id: bcMBFo123E61DH5Rw73UpJWr4o123qWhqbajzzrbRjOCFGgjtDFby8nHl4qgydbDUhNCQi3O3RTD9Ty5116P7aAKmkXQ117117
+  item_date: "2016-02-17 00:00:00"
+  title: Dear API Designer Are You Sure You Want to Return a Primitive
+  url: https://dzone.com/articles/dear-api-designer-are-you-sure-you-want-to-return
+  domain: dzone.com
+  image: ""
 - curated_id: 0OSxMK09116K3SCioB0NMqBXstRka123czJIG7eBex00tkXiUfx6kcramPTB123NSNIJ7ZN39UjsZxfHX6jFgUyA123b123A117117
   item_date: "2016-02-17 10:52:18"
   title: Resolving the FrontendBackend API Design Conflict
   url: http://launchany.com/resolving-the-frontendbackend-api-design-conflict/
   domain: launchany.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: f41cb9a85703cf11ca522ff6f1489990
+  item_date: "2016-02-18 00:00:00"
+  title: IBM to acquire Truven Health Analytics for $2.6 billion
+  url: http://venturebeat.com/2016/02/18/ibm-to-acquire-truven-health-analytics-for-2-6-billion/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 26cf654625ad035fbf98bd0a607cbe12
+  item_date: "2016-02-18 00:00:00"
+  title: IBM acquires Truven Health Analytics for $2.6 billion to bulk up Watson Health
+  url: http://www.zdnet.com/article/ibm-acquires-truven-health-analytics-for-2-6-billion-to-bulk-up-watson-health/#ftag=RSSbaffb68
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 67da22849c8b0dd41e0aaa4e05387014
+  item_date: "2016-02-20 00:00:00"
+  title: Salesforce buys machine learning startup PredictionIO
+  url: http://www.zdnet.com/article/salesforce-buys-machine-learning-startup-predictionio/#ftag=RSSbaffb68
+  domain: www.zdnet.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: 4zSWbn2NP7iqe0epektIbUWBmd8AFmlllB4TJoDwWwjxkOAfzsi0i2rkYH4qmz116mz7jE7z1230nYx8ILFfFV116wZw117117
   item_date: "2016-02-23 00:00:00"
   title: Presentation 5 AntiPatterns in Designing APIs
@@ -876,6 +1626,15 @@
   title: StopLight Launches Visual API Design Tools
   url: http://www.infoq.com/news/2016/03/spotlight-api-designer
   domain: www.infoq.com
+<<<<<<< HEAD
+=======
+  image: ""
+- curated_id: f0a38b785ad2c9f937aafc504324bbff
+  item_date: "2016-03-03 00:00:00"
+  title: Docker buys startup Conductant, will integrate Apache Aurora into its software
+  url: http://venturebeat.com/2016/03/03/docker-buys-startup-conductant-will-integrate-apache-aurora-into-its-software/
+  domain: venturebeat.com
+>>>>>>> origin/gh-pages
   image: ""
 - curated_id: 7ewtTDCGD116b0hFJhKE4oQmaHMtggBPLu1DF5XTCKvvtYQ5QFjxPNZJ3kWH4IJNf12319116116GZL5123i8m5qrMkSfnXg117117
   item_date: "2016-03-04 00:00:00"
@@ -974,6 +1733,15 @@
   url: http://tools.ietf.org/html/rfc7807
   domain: tools.ietf.org
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: 7bb6709f8d271385c33ec089cbee654e
+  item_date: "2016-04-06 00:00:00"
+  title: Ally Buys TradeKing to Move into Wealth Management Sector
+  url: http://bankinnovation.net/2016/04/ally-buys-tradeking-to-move-into-wealth-management-sector/
+  domain: bankinnovation.net
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: NVH9EtbozZdzueIvjnPrXzNWHa1237TV0rFZUE123nwvcmWE116BcQM2a123EJtyiyGnDoBUxcNL116c116XTuKO76IzhuStOw117117
   item_date: "2016-04-06 00:00:00"
   title: What is a welldesigned API
@@ -998,12 +1766,15 @@
   url: https://blog.apiary.io/2016/04/21/API-Design-Hackaton
   domain: blog.apiary.io
   image: ""
+<<<<<<< HEAD
 - curated_id: doBhRMxX8Nd5116QLuQNVMPi4NVlgU4vklv1230IB6OFvvNyy1TwAo116ylefZZwsTtfCL7jAQaAxY4Afv532LmWDRzg117117
   item_date: "2016-04-21 00:00:00"
   title: Build Better Mobile Apps Data and API Best Practices
   url: http://www.builtinchicago.org/blog/build-better-mobile-apps-data-and-api-best-practices
   domain: www.builtinchicago.org
   image: ""
+=======
+>>>>>>> origin/gh-pages
 - curated_id: picbMlrYU35LX86cTL0H26Be123BhaEGEJEtVR6py5iF123v25RnWnZbOS123z7cQOCRV0ozrCtN2K2fVJhjmLYfp98A117117
   item_date: "2016-04-22 00:00:00"
   title: Build a REST API with XML Payload
@@ -1028,6 +1799,15 @@
   url: http://restlet.com/blog/2016/04/25/rest-api-design-at-devoxx-france/
   domain: restlet.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: 13857f3e056748fa94f2c3ad6e8f2e63
+  item_date: "2016-04-29 00:00:00"
+  title: Formalizing My Approach to Identifying the Low Hanging API Fruit
+  url: https://dzone.com/articles/formalizing-my-approach-to-identifying-the-low-han
+  domain: dzone.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: bgeAoVRkzyRCMODP0di0SyJkdddCEyZZKBpIX2uiCo116pWEf8kZlvNq4pV1DsGT4774P5WyRzhkQfyXEqtdhAZg117117
   item_date: "2016-04-29 00:00:00"
   title: Never Put Secrets in URLs and Query Parameters
@@ -1046,6 +1826,27 @@
   url: http://apievangelist.com/2016/05/02/thinking-about-an-api-proxy-to-add-link-header-to-each-api-response/
   domain: apievangelist.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: 06e8c1b4d59c8692a723bc60340ab9ab
+  item_date: "2016-05-04 00:00:00"
+  title: CrossBrowserTesting Joins SmartBear Family
+  url: http://blog.smartbear.com/automated-testing/crossbrowsertesting-joins-smartbear/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: 1cd73ac2c20dad01f9fbc36f49b4f3d6
+  item_date: "2016-05-05 00:00:00"
+  title: Vonage to Acquire Twilio Arch Nemesis Nexmo for $230M
+  url: http://www.programmableweb.com/news/vonage-to-acquire-twilio-arch-nemesis-nexmo-230m/brief/2016/05/05
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 3f0f2d3a45f3e000b6c5d8a9cd208bf7
+  item_date: "2016-05-05 00:00:00"
+  title: Vonage buys Nexmo for $230 million, eyes cloud communications dominance
+  url: http://www.zdnet.com/article/vonage-buys-nexmo-for-230-million-eyes-cloud-communications-dominance/
+  domain: www.zdnet.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: dV5AAU116MTJHyrmJ8JpAbK5afZQPBGFdMXLhu1168jEpC6HE2gzAnegkoV6ADXhUc3fJJoKwtlwkmLKjD116H2XILYA117117
   item_date: "2016-05-17 00:00:00"
   title: Building a great API Lessons learned from working with dozens of REST APIs
@@ -1071,6 +1872,15 @@
   url: https://dzone.com/articles/the-most-important-thing-when-picking-http-statusc
   domain: dzone.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: b548f95eb5de7cf45847780b041aa8b5
+  item_date: "2016-06-06 00:00:00"
+  title: Podcast platform Stitcher bought for $4.5 million
+  url: http://www.theverge.com/2016/6/6/11872248/ew-scripps-stitcher-acquisition-podcast
+  domain: www.theverge.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: aLHR0xOc7T1d7r4TSoq5PyLvIdxHu1pHmxRZkkSIDHMQK7huIiZ123U3fe123vHSv5amiVw9NmuG2o123ulZxTGz0b8A117117
   item_date: "2016-06-06 00:00:00"
   title: The Basics of REST and RESTful API Development
@@ -1083,12 +1893,55 @@
   url: https://dzone.com/articles/json-ld-building-meaningful-data-apis-via-codeship
   domain: dzone.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: 71a6db07db1ca95bb6490f5bc606ca52
+  item_date: "2016-06-13 00:00:00"
+  title: Microsoft to acquire LinkedIn for $26b
+  url: http://thenextweb.com/microsoft/2016/06/13/microsoft-acquires-linkedin-26b/
+  domain: thenextweb.com
+  image: ""
+- curated_id: cf1a4770268a5eee540a4ec47b1c6505
+  item_date: "2016-06-13 00:00:00"
+  title: Microsoft to Acquire LinkedIn for $26 Billion
+  url: http://news.microsoft.com/2016/06/13/microsoft-to-acquire-linkedin/
+  domain: news.microsoft.com
+  image: ""
+- curated_id: ccd7247942789e29b6f3001e9fd73c55
+  item_date: "2016-06-13 00:00:00"
+  title: Microsoft is buying LinkedIn for $26 billion, but there may be another price
+    to pay
+  url: http://www.businessinsider.com/moodys-downgrade-microsoft-perfect-rating-2016-6
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 6f4b0fdbf7bb40b4a67492057a6e86c7
+  item_date: "2016-06-13 00:00:00"
+  title: Microsoft + LinkedIn = Everything But An Advertising Play
+  url: http://blogs.forrester.com/melissa_parrish/16-06-13-microsoft_linkedin_everything_but_an_advertising_play
+  domain: blogs.forrester.com
+  image: ""
+- curated_id: 15a0d4f73d819eab2ff79591ea351533
+  item_date: "2016-06-13 00:00:00"
+  title: Microsoft agrees to buy LinkedIn in their largest ever deal
+  url: http://disruptiveviews.com/microsoft-grabs-linkedin-largest-deal/
+  domain: disruptiveviews.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: WN369VvsErxTut1161zbexBP74JQMgLu5lgc9Dg2xPdc89hDQdoh1NHEmLcFuepIizlT7aNfvTcZGKBmN116xlWVpg117117
   item_date: "2016-06-14 00:00:00"
   title: How API First Design Could Have Avoided These Failures
   url: http://www.programmableweb.com/news/how-api-first-design-could-have-avoided-these-failures/analysis/2016/06/14
   domain: www.programmableweb.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: 995fa0b7988660c2bbee71f51ae9e55c
+  item_date: "2016-06-15 00:00:00"
+  title: 'Microsoft Buys LinkedIn: The Value of Data'
+  url: https://dzone.com/articles/microsoft-buys-linkedin-the-value-of-data
+  domain: dzone.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: BgArctzlYsZvKG9wAxI88MwffuGAIQLuVQiqp3E3XPuKK0AjCLOCMQrcAWumWdpOwsa9f123lhnY888E4EOKxoCQ117117
   item_date: "2016-06-15 00:00:00"
   title: API Design in Nodejs with Express
@@ -1107,6 +1960,63 @@
   url: http://www.programmableweb.com/news/why-your-apis-end-usage-context-matters-to-great-developer-experiences/analysis/2016/06/21
   domain: www.programmableweb.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: e7e1b2622af3747876568c9057d649ef
+  item_date: "2016-06-21 00:00:00"
+  title: Tesla makes offer to buy Elon Musk-backed SolarCity
+  url: http://www.theverge.com/2016/6/21/11996280/tesla-offer-solar-city-buy
+  domain: www.theverge.com
+  image: ""
+- curated_id: 850cde1325e1dc974714624c6ddb2cbb
+  item_date: "2016-06-22 00:00:00"
+  title: Red Hat to Acquire API Management Leader 3scale
+  url: https://www.3scale.net/2016/06/red-hat-to-acquire-api-management-leader-3scale/
+  domain: www.3scale.net
+  image: ""
+- curated_id: 0d35b5386f4105de30427d9aa0da7852
+  item_date: "2016-06-23 00:00:00"
+  title: Red Hat to Acquire 3scale
+  url: http://www.enterprisetech.com/2016/06/23/red-hat-acquire-3scale/
+  domain: www.enterprisetech.com
+  image: ""
+- curated_id: a625318b3bf1213c7065965a6dc151a8
+  item_date: "2016-06-23 00:00:00"
+  title: Red Hat Acquires 3Scale to Drive Adoption of API Management Platform
+  url: http://www.itbusinessedge.com/blogs/it-unmasked/red-hat-acquires-3scale-to-drive-adoption-of-api-management-platform.html
+  domain: www.itbusinessedge.com
+  image: ""
+- curated_id: 77bf6c374a7494631dcbcaa4c682545a
+  item_date: "2016-06-24 00:00:00"
+  title: 'Why Red Hat and 3scale Matter: A Developers View'
+  url: https://dzone.com/articles/why-red-hat-and-3scale-matter
+  domain: dzone.com
+  image: ""
+- curated_id: 8db516ba1f479f6a8acdbf45e0e2e742
+  item_date: "2016-06-25 16:45:15"
+  title: Red Hat to Acquire API Management Leader 3scale
+  url: https://www.redhat.com/en/about/press-releases/red-hat-acquire-api-management-leader-3scale
+  domain: www.redhat.com
+  image: ""
+- curated_id: 4a2255ef1bca66ffab3c70308cc43792
+  item_date: "2016-06-25 20:57:32"
+  title: Red Hat ups its API management game by acquiring 3Scale
+  url: http://www.infoworld.com/article/3087557/apis/red-hat-ups-its-api-management-game-by-acquiring-3scale.html
+  domain: www.infoworld.com
+  image: ""
+- curated_id: 9670d3746565289e42e6d820d4730e7d
+  item_date: "2016-06-28 00:00:00"
+  title: Cisco is spending $293 million to buy cloud security company CloudLock (CSCO)
+  url: http://www.businessinsider.com/cisco-buys-cloudlock-for-293-million-2016-6
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 620779ad3b244f92a0193eee29231ab2
+  item_date: "2016-06-28 09:22:21"
+  title: Red Hat explains its acquisition of API management tools maker 3scale
+  url: http://searchcloudapplications.techtarget.com/news/450299207/Red-Hat-explains-its-acquisition-of-API-management-tools-maker-3scale
+  domain: searchcloudapplications.techtarget.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: FLhg7V9xfY3YdCkZzFd116yupGsGb123KsXHf3bWMp8CdlcoHy4HGuLvQ2gbNzsalX0AewM36u1OQ44oEjipDxiIUA117117
   item_date: "2016-06-29 00:00:00"
   title: Three APIs Making the Case Against Building It Yourself
@@ -1119,6 +2029,28 @@
   url: https://dzone.com/articles/http-rpc-30-released
   domain: dzone.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: 6fda1cf180a1a074fced22a7bb5c9d6c
+  item_date: "2016-07-06 00:00:00"
+  title: Google buys French startup Moodstocks to boost machine learning muscle
+  url: http://www.zdnet.com/article/google-buys-french-startup-moodstocks-to-boost-machine-learning-muscle/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: b2670f31e530d9badc8f6cb0dc8eb898
+  item_date: "2016-07-06 00:00:00"
+  title: Google buys France-based Moodstocks, which makes image recognition tech for
+    smartphones
+  url: https://techcrunch.com/2016/07/06/google-buys-france-based-moodstocks-which-makes-image-recognition-tech-for-smartphones/
+  domain: techcrunch.com
+  image: ""
+- curated_id: c521551dfa05eb3e457986efcd31a86d
+  item_date: "2016-07-08 10:01:49"
+  title: 'Tweet: Buddy Platform to acquire Zentri - News - IoT Hub https://t.co/CKVL4QLLUV'
+  url: https://twitter.com/BuddyPlatform/statuses/751461298815270912
+  domain: twitter.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: YGOENuqcNc7YQ7CnUkUKtUe6ZLisIqJFzJ0UHAb6JMKmVmyUHF8fcZ2eY7UaUnExvLsChdM46116quLQkpn6ZpWg117117
   item_date: "2016-07-10 00:00:00"
   title: Scaling Your API Design Workflow
@@ -1131,6 +2063,27 @@
   url: https://www.infoq.com/presentations/rest-streaming-api
   domain: www.infoq.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: 63534acd61ed260d4b00c6b8283b71fc
+  item_date: "2016-07-14 00:00:00"
+  title: Amazon buys popular cloud-based IDE Cloud9 for use with AWS
+  url: http://thenextweb.com/dd/2016/07/14/amazon-buys-cloud9-aws/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 39951bbeed21f2184cb1f7e527e2b8f0
+  item_date: "2016-07-14 00:00:00"
+  title: Amazons AWS acquires cloud-based IDE startup Cloud9
+  url: http://www.zdnet.com/article/amazons-aws-acquires-cloud-based-ide-startup-cloud9/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 0a33fec95f9406e8991087bca42708ee
+  item_date: "2016-07-14 00:00:00"
+  title: Atlassian acquires StatusPage
+  url: https://techcrunch.com/2016/07/14/atlassian-acquires-statuspage/
+  domain: techcrunch.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: mXwGZAfk11624F0sJ8qBcQbFNRycTfizNzZpX6DbemLpzZwT0nogM3PCNwzKb72YBpy9XvRNFwPjdxYHZ5QqCLmg117117
   item_date: "2016-07-15 00:00:00"
   title: API Errors Are First Class Citizens
@@ -1148,6 +2101,7 @@
   title: Microsoft REST API Guidelines Are Not RESTful
   url: https://www.infoq.com/news/2016/07/microsoft-rest-api
   domain: www.infoq.com
+<<<<<<< HEAD
   image: ""
 - curated_id: v4Nvl9lWN4J7Int4yYDsTh38yTdxosle50116q116MnYof5Xq0GJs123WAkSN3Z5MZep66zfbrhNjTHX2Bw8r123tRle8A117117
   item_date: "2016-07-21 00:00:00"
@@ -1155,6 +2109,41 @@
   url: http://www.programmableweb.com/news/microsoft-publishes-rest-api-guidelines-2.3/brief/2016/07/21
   domain: www.programmableweb.com
   image: ""
+=======
+  image: ""
+- curated_id: v4Nvl9lWN4J7Int4yYDsTh38yTdxosle50116q116MnYof5Xq0GJs123WAkSN3Z5MZep66zfbrhNjTHX2Bw8r123tRle8A117117
+  item_date: "2016-07-21 00:00:00"
+  title: Microsoft Publishes REST API Guidelines 23
+  url: http://www.programmableweb.com/news/microsoft-publishes-rest-api-guidelines-2.3/brief/2016/07/21
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 9e9be7df15ae7b91913e8950efbbf36b
+  item_date: "2016-08-01 00:00:00"
+  title: Verizon buys Fleetmatics for $2.4 billion in enterprise mobility push
+  url: http://www.zdnet.com/article/verizon-buys-fleetmatics-for-2-4-billion-in-enterprise-mobility-push/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 568911bf08bf608d80d8c0aaa7bf3488
+  item_date: "2016-08-02 00:00:00"
+  title: Verizon?s Acquisition Of Fleetmatics Group Boosts IoT Momentum In The Telco
+    Space
+  url: http://blogs.forrester.com/dan_bieler/16-08-02-verizons_acquisition_of_fleetmatics_group_boosts_iot_momentum_in_the_telco_space
+  domain: blogs.forrester.com
+  image: ""
+- curated_id: 082e8e44ba699bbe406e660e59dbc58a
+  item_date: "2016-08-02 00:00:00"
+  title: Medium nabs Embedly to add to its list of publisher tools
+  url: https://techcrunch.com/2016/08/02/medium-naps-embedly-to-add-to-its-list-of-publisher-tools/
+  domain: techcrunch.com
+  image: ""
+- curated_id: e870429fd0e09dc022ca8f95c3315ed8
+  item_date: "2016-08-02 09:00:51"
+  title: 'Tweet: We#039;ve been acquired by @Medium and are excited for the next chapter!
+    https://t.co/huVgXtArcR https://t.co/T1iHZgPhR6'
+  url: https://twitter.com/embedly/statuses/760505650556338176
+  domain: twitter.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: kZx123I9JcW5EFeckjo8v3rPxf123O3epDRsTJ123AE1MQjJY109116ro1UxHrtxIn2sG0P116xUgTyfRgHQdf6116le123yx0MQ117117
   item_date: "2016-08-03 00:00:00"
   title: Restlet Studio 13 is out
@@ -1166,6 +2155,15 @@
   title: Getting Your REST is Important
   url: http://www.tibco.com/blog/2016/08/03/getting-your-rest-is-important/
   domain: www.tibco.com
+<<<<<<< HEAD
+=======
+  image: ""
+- curated_id: c6a3c75bf6391d4ad4b0a1c83c927c5b
+  item_date: "2016-08-05 00:00:00"
+  title: Apple acquires Turi, a machine learning company
+  url: https://techcrunch.com/2016/08/05/apple-acquires-turi-a-machine-learning-company/
+  domain: techcrunch.com
+>>>>>>> origin/gh-pages
   image: ""
 - curated_id: N4DsiNvaeA9XYbIShqFhKJN9u8qY5hrXFXCXrqt3RarEGDxboM7MJlKBdHfDyErGNmxEYQ888hcuZLr9R57NZg117117
   item_date: "2016-08-09 00:00:00"
@@ -1198,12 +2196,27 @@
   url: http://blog.opto22.com/optoblog/optonews-tip-whats-a-restful-api-and-why-does-it-matter
   domain: blog.opto22.com
   image: ""
+- curated_id: 0a9bf00c0b227752df7362889e67f7a2
+  item_date: "2016-08-17 00:00:00"
+  title: FullContact Acquires Conspire
+  url: https://www.fullcontact.com/blog/fullcontact-acquires-conspire/
+  domain: www.fullcontact.com
+  image: ""
+<<<<<<< HEAD
+=======
+- curated_id: b74f31abf3acec03144e7aafe3740216
+  item_date: "2016-08-18 00:00:00"
+  title: Uber acquires Otto, enters trucking and may find better business model
+  url: http://www.zdnet.com/article/uber-acquires-otto-enters-trucking-and-may-find-better-business-model/
+  domain: www.zdnet.com
+  image: ""
 - curated_id: 5kumgPU1tpPUcGzXi123y0Z116tD230wPDqsDpsZ96h8ISNGv9TrCNU1Pcg3hX3U5ege4c7QV1haRdiF8ABWkrsYIQ117117
   item_date: "2016-08-18 00:00:00"
   title: Five Steps Before Developing a Smart Home Skill
   url: https://developer.amazon.com/appsandservices/community/post/Tx4WG410EHXIYQ/Five-Steps-Before-Developing-a-Smart-Home-Skill
   domain: developer.amazon.com
   image: ""
+>>>>>>> origin/gh-pages
 - curated_id: qLaC11644116WujhcD5nT9f4LoBUe10mDVVEAMM0rippPDYHWXZ24osQ1Ij0kD08kbZYT4CWuvfl5aCPplmfWigAYg117117
   item_date: "2016-08-19 00:00:00"
   title: Article Creating RESTful Services with T4 Based on Model and Interfaces
@@ -1216,12 +2229,54 @@
   url: https://spin.atomicobject.com/2016/08/20/api-design/
   domain: spin.atomicobject.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: a85b1151a1408739ffbeb68325e287b1
+  item_date: "2016-08-22 00:00:00"
+  title: Media.net acquisition fits into Chinese ad tech arbitrage play
+  url: http://www.techinsider.io/medianet-acquisition-chinese-ad-tech-arbitrage-play-2016-8
+  domain: www.techinsider.io
+  image: ""
+- curated_id: 97d4d578f5d8832c142de143b78db0b1
+  item_date: "2016-08-22 00:00:00"
+  title: Microsoft acquires intelligent scheduling startup Genee
+  url: http://www.pcworld.com/article/3110527/software/microsoft-acquires-intelligent-scheduling-startup-genee.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 9882b7b44aeacc35d8b196cc1518a749
+  item_date: "2016-08-22 00:00:00"
+  title: Chinese investors buy ad tech startup Media.net for $900 million
+  url: http://www.reuters.com/article/us-media-net-m-a-beijing-miteno-idUSKCN10X155
+  domain: www.reuters.com
+  image: ""
+- curated_id: 5c8d72c57b02200a42bef3e3157dca60
+  item_date: "2016-08-23 00:00:00"
+  title: Profoundis Joins FullContact
+  url: https://www.fullcontact.com/blog/profoundis-joins-fullcontact/
+  domain: www.fullcontact.com
+  image: ""
+- curated_id: a73d4ab0ac28e35f848980ecc677c35e
+  item_date: "2016-08-23 00:00:00"
+  title: Apple acquires health data startup Gliimpse
+  url: http://pharmaphorum.com/news/apple-acquires-health-data-startup-gliimpse/
+  domain: pharmaphorum.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: UouB8qxpfASyzf1jmMZnZj7rxFY57ym1eos9hM5WOUtUQ84E17AqZq8QMNg0QgVsHzG5BSuRW1LO5TdLvWgOeQ117117
   item_date: "2016-08-23 00:00:00"
   title: User Interface An Essential part of a Effective API design
   url: http://www.cioreview.com/news/user-interface-an-essential-part-of-a-effective-api-design-nid-18306-cid-111.html
   domain: www.cioreview.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: 9d0872d3cb3d551354e7246e24c2030e
+  item_date: "2016-08-23 00:00:00"
+  title: Pinterest acquires Instapaper
+  url: http://www.zdnet.com/article/pinterest-acquires-instapaper/
+  domain: www.zdnet.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: Xfyir400A5QT2tkKsL0h4r9rBrHYZDJhKN84Dbz2xsmzScR49f116dt116sGAmd9lqWMS0cLOvKKKE7kcLTnMjt9Ew117117
   item_date: "2016-08-26 00:00:00"
   title: RESTful APIs and MediaTypes
@@ -1234,6 +2289,15 @@
   url: https://www.lullabot.com/articles/internal-api-design-for-distributed-teams
   domain: www.lullabot.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: e5a5e979ba81d6367864e7677eea7944
+  item_date: "2016-08-30 00:00:00"
+  title: Cisco buys container startup ContainerX
+  url: http://www.zdnet.com/article/cisco-buys-container-startup-containerx/
+  domain: www.zdnet.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: BmkZASH5lT8aIjPY68zoiSoAW123MOPpIPwfJ0I123v116VTfnz123Q3GrVUHxxQfi1UEc6wm2rwRJn8rJMwHP2PSWn9sQ117117
   item_date: "2016-08-30 00:00:00"
   title: Why Consistency Matters Across the Media Types Offered by an API
@@ -1258,12 +2322,35 @@
   url: http://webconcepts.info/update/2016/09/02/json-concepts.html
   domain: webconcepts.info
   image: ""
+<<<<<<< HEAD
 - curated_id: 4o6SZMMni116jhgYnHETzMuLiXENxPqCjrULU8cXReVfrtPL123XNlxjHWmqWEdb0Grmxs2JyPExP8Y760lQq3YtIQ117117
   item_date: "2016-09-06 00:00:00"
   title: 'How to sort API expand fields '
   url: http://www.yiiframework.com/forum/index.php/topic/72123-how-to-sort-api-expand-fields/page__pid__302978
   domain: www.yiiframework.com
   image: ""
+- curated_id: oYs4qsbpPmSOxyLH7Rn3ssb123ZcV5jL1JQZ7omYsO9o116h116Quf35PqCEU116JjXEfjq0u3WUeUoOzhEWJqlce3ZqlA117117
+  item_date: "2016-09-07 00:00:00"
+  title: API Design Book Available Today
+  url: http://api-university.com/blog/api-design-book-available-today/
+  domain: api-university.com
+=======
+- curated_id: 5bac43712f748ea065dc797361febaf2
+  item_date: "2016-09-06 00:00:00"
+  title: Could Red Hat?s Acquisition of API Management Technology Revolutionize Software
+    Development Again?
+  url: http://restlet.com/blog/2016/09/06/could-red-hats-acquisition-of-api-management-technology-revolutionize-software-development-again/
+  domain: restlet.com
+>>>>>>> origin/gh-pages
+  image: ""
+- curated_id: 4o6SZMMni116jhgYnHETzMuLiXENxPqCjrULU8cXReVfrtPL123XNlxjHWmqWEdb0Grmxs2JyPExP8Y760lQq3YtIQ117117
+  item_date: "2016-09-06 00:00:00"
+  title: 'How to sort API expand fields '
+  url: http://www.yiiframework.com/forum/index.php/topic/72123-how-to-sort-api-expand-fields/page__pid__302978
+  domain: www.yiiframework.com
+  image: ""
+<<<<<<< HEAD
+=======
 - curated_id: oYs4qsbpPmSOxyLH7Rn3ssb123ZcV5jL1JQZ7omYsO9o116h116Quf35PqCEU116JjXEfjq0u3WUeUoOzhEWJqlce3ZqlA117117
   item_date: "2016-09-07 00:00:00"
   title: API Design Book Available Today
@@ -1276,18 +2363,55 @@
   url: http://blog.teamtreehouse.com/understanding-new-swift-3-api-design-guidelines
   domain: blog.teamtreehouse.com
   image: ""
+>>>>>>> origin/gh-pages
 - curated_id: qgjubPTwQuFMvCl123n5OfQnJOPjVOucQ51231qnXMd30ZvA3gRR5bmSQnZ116j0t123sXLyN5cLMWiTQXAozbTXkajIIw117117
   item_date: "2016-09-07 09:36:49"
   title: The Secret Sauce Behind Building an Elastic API
   url: http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/The-Secret-Sauce-Behind-Building-an-Elastic-API-113410.aspx
   domain: www.streamingmedia.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: a1d608748c768372f85939e1ec88a13d
+  item_date: "2016-09-08 00:00:00"
+  title: Google gets API management tools in Apigee deal
+  url: http://www.pcworld.com/article/3118041/google-gets-api-management-tools-in-apigee-deal.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 6f092d6c308b8ee50569f322bf4c0850
+  item_date: "2016-09-08 00:00:00"
+  title: Apigee to Join Google
+  url: http://apigee.com/about/blog/digital-business/apigee-join-google
+  domain: apigee.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: dGDk6eIYibFC8rIkNQEU07nkJhfM7yQlLv41oCq116WUZOnte431232KbzuK04T5JcrakDfXqKLY3DL6bUb116XI2cAA117117
   item_date: "2016-09-08 00:00:00"
   title: Restful API Design An Opinionated Guide
   url: https://dzone.com/articles/restful-api-design-an-opinionated-guide
   domain: dzone.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: 1d558968d51fce7ff883f6ee992ce882
+  item_date: "2016-09-08 00:00:00"
+  title: Google buying Apigee for $625 million
+  url: http://www.techinsider.io/google-buying-apigee-625-million-2016-9
+  domain: www.techinsider.io
+  image: ""
+- curated_id: d6e1162e909f064d6153ed75938fe70d
+  item_date: "2016-09-08 00:00:00"
+  title: Google to acquire Apigee
+  url: https://cloudplatform.googleblog.com/2016/09/Google-to-acquire-apigee.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 919ee894856a543695c807f71a23d988
+  item_date: "2016-09-08 00:00:00"
+  title: Google picks up API management platform Apigee for $625 million
+  url: http://myinforms.com/en-us/a/40811840-google-picks-up-api-management-platform-apigee-for-625-million/
+  domain: myinforms.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: sjnAUAGv7o123BuTzkKPOTB123Hfq4HpzOE116JKaTvukk23Rys8jjr2OwvPpoLPN3BragPVRI1169t6HMfBxePb123G88MQ117117
   item_date: "2016-09-08 00:00:00"
   title: RESTful Web API Design with Nodejs
@@ -1312,23 +2436,88 @@
   url: http://githubengineering.com/the-github-graphql-api/
   domain: githubengineering.com
   image: ""
-- curated_id: cDJL0xH67dOaAxrzgwT7vGmvVQkkKTW4JN7N77116htbGh5hHK5FPpFsEHXjsG3f3pLVSSIL116unJzQo0rJ7D3aZQ117117
-  item_date: "2016-09-15 00:00:00"
-  title: How to Take Your API From RPC to Hypermedia in 7 Steps
-  url: http://www.programmableweb.com/news/how-to-take-your-api-rpc-to-hypermedia-7-steps/how-to/2016/09/15
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: edYbaWsa123R8e2zfyLXvgo5AVtwXb1116NuEbMXDFregXHr1c7Jdjs116O1KPP39WvuR8Zd6VBQYTsvcKTwD116QVKygg117117
   item_date: "2016-09-15 00:00:00"
   title: Learn API DevOps from the Experts  Design Testing Deployment
   url: http://restlet.com/blog/2016/09/15/sept-api-meetup/
   domain: restlet.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: cDJL0xH67dOaAxrzgwT7vGmvVQkkKTW4JN7N77116htbGh5hHK5FPpFsEHXjsG3f3pLVSSIL116unJzQo0rJ7D3aZQ117117
+  item_date: "2016-09-15 00:00:00"
+  title: How to Take Your API From RPC to Hypermedia in 7 Steps
+  url: http://www.programmableweb.com/news/how-to-take-your-api-rpc-to-hypermedia-7-steps/how-to/2016/09/15
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: ea9213ba1d6ac2e886722d2b594320a0
+  item_date: "2016-09-16 00:00:00"
+  title: 'Rising Star Park Place Buys 20-Person Data Center Maintenance Power '
+  url: http://www.crn.com/news/channel-programs/300082119/rising-star-park-place-buys-20-person-data-center-maintenance-power.htm
+  domain: www.crn.com
+  image: ""
+- curated_id: 28028ebd9177ce2bf2e51e9a88cc1da2
+  item_date: "2016-09-16 00:00:00"
+  title: Chinese Companies Open Checkbooks to Acquire European Tech
+  url: http://www.nytimes.com/2016/09/17/business/dealbook/china-germany-takeover-merger-technology.html
+  domain: www.nytimes.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: DG1Hi4mdkwHH92Vuqlwl9zI3mhKI4ScbSqBXbJpClAd4tAGCHg0DZcXce4V4116MpKNNpnsR99Nlkz116XnUt0w8jQ117117
   item_date: "2016-09-16 00:00:00"
   title: Here comes GraphQL  The Real Adam
   url: https://therealadam.com/2016/09/17/here-comes-graphql/
   domain: therealadam.com
+  image: ""
+<<<<<<< HEAD
+- curated_id: GJND123zdkkBX5IFjGwdoaYHMo7yd7iwWBRlfD5116tEZN7FRReFOlee8pVFqyovqV116JyWu1OFS9iLgXSLkX1JTwwA117117
+=======
+- curated_id: 2e3a24a245a09801e5ee40d5d125cc30
+  item_date: "2016-09-16 00:00:00"
+  title: 'Cool APIs: Top Experts Share Ripples, Top Take-Aways from Google-Apigee
+    API Deal'
+  url: http://www.idevnews.com/stories/6869/Cool-APIs-Top-Experts-Share-Ripples-Top-Take-Aways-from-Google-Apigee-API-Deal
+  domain: www.idevnews.com
+  image: ""
+- curated_id: fa8f2d1342f863e16ba8955b3a2a06d3
+  item_date: "2016-09-17 00:00:00"
+  title: Google to Aquire API Management Company Apigee
+  url: https://www.infoq.com/news/2016/09/google-apigee-acquisition
+  domain: www.infoq.com
+  image: ""
+- curated_id: 77a47482c7d38531c5a4e63209645031
+  item_date: "2016-09-19 00:00:00"
+  title: Tech Data Shares Soar 22 Percent On News Of Avnet Technology Solutions Acquisition
+  url: http://www.crn.com/news/data-center/300082144/tech-data-shares-soar-22-percent-on-news-of-avnet-technology-solutions-acquisition.htm
+  domain: www.crn.com
+  image: ""
+- curated_id: ca691ddb5b8fb4fe1382c49da273149f
+>>>>>>> origin/gh-pages
+  item_date: "2016-09-19 00:00:00"
+  title: Making Conversational Interfaces Easier to Build
+  url: https://developers.googleblog.com/2016/09/making-conversational-interfaces-easier-to-build.html
+  domain: developers.googleblog.com
+  image: ""
+- curated_id: a17d714a3a64ae98f6453581908e91ff
+  item_date: "2016-09-19 00:00:00"
+  title: Google Buys Apigee?A Primer on How to Boil a Frog
+  url: http://www.tibco.com/blog/2016/09/19/google-buys-apigee-a-primer-on-how-to-boil-a-frog/
+  domain: www.tibco.com
+  image: ""
+<<<<<<< HEAD
+=======
+- curated_id: a56b0b725ad778863cafb70af6af3309
+  item_date: "2016-09-19 00:00:00"
+  title: Google acquires API.AI, a company helping developers build bots that aren?t
+    awful to talk to
+  url: https://techcrunch.com/2016/09/19/google-acquires-api-ai-a-company-helping-developers-build-bots-that-arent-awful-to-talk-to/
+  domain: techcrunch.com
+  image: ""
+- curated_id: f014ed29e473b1a5d09c11dc5b6c9531
+  item_date: "2016-09-19 00:00:00"
+  title: Googles new acquisition makes building chatbots easier
+  url: http://www.pcworld.com/article/3121956/googles-new-acquisition-makes-building-chatbots-easier.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: GJND123zdkkBX5IFjGwdoaYHMo7yd7iwWBRlfD5116tEZN7FRReFOlee8pVFqyovqV116JyWu1OFS9iLgXSLkX1JTwwA117117
   item_date: "2016-09-19 00:00:00"
@@ -1336,12 +2525,35 @@
   url: https://dzone.com/articles/restful-web-service-1
   domain: dzone.com
   image: ""
+- curated_id: c24acffe79c0b0c726d2a2f289baffa3
+  item_date: "2016-09-20 00:00:00"
+  title: CA Technologies buys BlazeMeter
+  url: http://www.zdnet.com/article/ca-technologies-buys-blazemeter/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 5c140310b7ecaab002fd7aeb489cdd50
+  item_date: "2016-09-20 00:00:00"
+  title: Greenwave Systems Scoops Up Analytics Company Predixion Software To Bolster
+    IoT Platform
+  url: http://www.crn.com/news/internet-of-things/300082147/greenwave-systems-scoops-up-analytics-company-predixion-software-to-bolster-iot-platform.htm
+  domain: www.crn.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: 6jZVGTsC9S2HDZRPs123n3dFDGcJl0WyLG7aSbcQVxD0aG1w83cYwmDyuKnXUBao116mud84YVMSHgAi4kZ2uOZcIA117117
   item_date: "2016-09-20 00:00:00"
   title: Understanding REST And RPC For HTTP APIs
   url: https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/
   domain: www.smashingmagazine.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: ed536f6dd401f49bf7f8877aca75616e
+  item_date: "2016-09-20 00:00:00"
+  title: Angel.ai, a company that builds chat bots, acqui-hired by Amazon
+  url: https://techcrunch.com/2016/09/20/angel-ai-a-company-that-builds-chat-bots-acqui-hired-by-amazon/
+  domain: techcrunch.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: m73FE7d4lJQt3fa6LnbXYkEi4kf54W0XAok8PVABQ8qKR8mRVUcS8kiU0EPf0qCwRRS7SdMQMUl0PQmuUObqEg117117
   item_date: "2016-09-20 00:00:00"
   title: RPC vs REST is not in the URL
@@ -1360,6 +2572,27 @@
   url: https://medium.com/m/global-identity
   domain: medium.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: e9a748bcd6cdf18b9c43233727faa4c0
+  item_date: "2016-09-22 00:00:00"
+  title: 'Apple acquires another machine learning company: Tuplejump'
+  url: https://techcrunch.com/2016/09/22/apple-acquires-another-machine-learning-company-tuplejump/
+  domain: techcrunch.com
+  image: ""
+- curated_id: ce22e3117fd6471d4c216036998dcffb
+  item_date: "2016-09-23 00:00:00"
+  title: Salesforce Buying Twitter Would Make Perfect Sense
+  url: https://www.wired.com/2016/09/salesforce-acquire-twitter/
+  domain: www.wired.com
+  image: ""
+- curated_id: f39f46b036d49f836d22520990d0a5dc
+  item_date: "2016-09-23 00:00:00"
+  title: Microsoft Pushes the Bot Framework, Google Buys API.ai
+  url: https://www.infoq.com/news/2016/09/bot-framework-api-ai
+  domain: www.infoq.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: 79nuPDd9uN87YHjR116RJXY8h5CaXEbHl123nSI8fi9EalU7QHcnxa39E91C2fQML7InWk6MUEtkMzscwuSMq8UfSA117117
   item_date: "2016-09-25 00:00:00"
   title: Apimint  Rapidly Prototype APIs
@@ -1373,6 +2606,15 @@
   url: http://sunlightfoundation.com/blog/2016/09/26/sunlight-at-the-21st-century-neighborhoods-symposium-how-humanizing-data-will-improve-our-communities/
   domain: sunlightfoundation.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: 5722c1dde482aaf638db022254998f2f
+  item_date: "2016-09-27 00:00:00"
+  title: SAP confirms Altiscale acquisition
+  url: http://www.zdnet.com/article/sap-confirms-altiscale-acquisition/
+  domain: www.zdnet.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: DwWXVrcos2G3G9963wiz0D4uQhzN2njtOdQJK06uX7IkPTkAE5Dhcu8OWvr24jxZLcvodWFRoceqnbDOfs7ApQ117117
   item_date: "2016-09-28 00:00:00"
   title: Announcing the OpenSource beaR Library
@@ -1381,9 +2623,27 @@
   image: ""
 - curated_id: tJ5VtL85De7116d0CtMQzv9uUbIT1RdFxI123h6dwAUUHdlKNUm6M8dqP1u3IZ0OxyTBzfGxiUDydoY116f1zerW9LlQ117117
   item_date: "2016-09-28 00:00:00"
+<<<<<<< HEAD
   title: What is API Design
   url: http://api-university.com/blog/what-is-api-design/
   domain: api-university.com
+=======
+  title: SoundCloud acquisition could offer a glimpse at the future of streaming music
+  url: http://thenextweb.com/opinion/2016/09/29/soundcloud-acquisition-could-offer-a-glimpse-at-the-future-of-streaming-music/
+  domain: thenextweb.com
+  image: ""
+- curated_id: tJ5VtL85De7116d0CtMQzv9uUbIT1RdFxI123h6dwAUUHdlKNUm6M8dqP1u3IZ0OxyTBzfGxiUDydoY116f1zerW9LlQ117117
+  item_date: "2016-09-28 00:00:00"
+  title: What is API Design
+  url: http://api-university.com/blog/what-is-api-design/
+  domain: api-university.com
+  image: ""
+- curated_id: b26e96ac9cd3a5b43256591dd0f2146e
+  item_date: "2016-09-29 00:00:00"
+  title: IBM Acquires Promontory
+  url: http://bankinnovation.net/2016/09/ibm-acquires-promontory/
+  domain: bankinnovation.net
+>>>>>>> origin/gh-pages
   image: ""
 - curated_id: 7CeE123KNo123MVyYk9lEHdRyTJtEgeU3NehAxgWlk123AwQUkiP3116PG05dnj177Bvd1GpNoylYbEsnvTdSDlCm2g67Q117117
   item_date: "2016-09-29 13:23:41"
@@ -1410,18 +2670,70 @@
   url: http://www.codeproject.com/Articles/1136184/Software-backward-compatibility-undocumented-APIs
   domain: www.codeproject.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: c616a8e5512da230cab43ff1c48fe4af
+  item_date: "2016-10-03 00:00:00"
+  title: Concur Completes Acquisition of Hipmunk
+  url: https://www.concur.com/newsroom/article/concur-completes-acquisition-of-hipmunk
+  domain: www.concur.com
+  image: ""
+- curated_id: ff9699b97898b13c0a2610c45c7d4dc6
+  item_date: "2016-10-04 00:00:00"
+  title: Akamai buys Soha Systems to add more security to its cloud networking business
+  url: https://techcrunch.com/2016/10/04/akamai-buys-soha-systems-to-add-more-security-to-its-cloud-networking-business/
+  domain: techcrunch.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: 6OVIyn4chl62W7lCApv6ECbdPElg32P6g6alSaHqpFwI4EzPU7bcE116maXRoo0NIF6ioqyCuen3123EOh4V1gddGA117117
   item_date: "2016-10-04 00:00:00"
   title: Why to Prioritize Your API Strategy Before Your API Design
   url: http://www.programmableweb.com/news/why-to-prioritize-your-api-strategy-your-api-design/sponsored-content/2016/10/04
   domain: www.programmableweb.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: 8b79a010ea5d9ff314f114a3368280d3
+  item_date: "2016-10-04 00:00:00"
+  title: Nokia buys base station energy solutions start-up
+  url: http://www.reuters.com/article/us-nokia-m-a-idUSKCN1250CQ
+  domain: www.reuters.com
+  image: ""
+- curated_id: 60da82e795becaa985a38896d8221dbd
+  item_date: "2016-10-04 00:00:00"
+  title: Akamai acquires enterprise security firm Soha
+  url: http://www.zdnet.com/article/akamai-acquires-enterprise-security-firm-soha/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 4caeb873ac7f4aebaff0852a0806b063
+  item_date: "2016-10-04 00:00:00"
+  title: 'Salesforce will buy Krux to expand behavioral tracking capabilities '
+  url: http://www.pcworld.com/article/3127341/data-center-cloud/salesforce-will-buy-krux-to-expand-behavioral-tracking-capabilities.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: DkuK79rMDOlIwCjgDm9JTp5ecKr3uE8OEseyee116B1230BwdK5wJ123vEpCtcCI6vBR9mU116AnRrbYlN2JdAP1wiYBgg117117
   item_date: "2016-10-04 11:37:19"
   title: A Web API ecosystem through featurebased reuse
   url: https://arxiv.org/pdf/1609.07108v1.pdf
   domain: arxiv.org
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: 18f80b3041ce0742a843e88b89b7a3ee
+  item_date: "2016-10-05 00:00:00"
+  title: "Why Would Salesforce Want to Buy Twitter? Your Data\r\n"
+  url: http://motherboard.vice.com/read/why-would-salesforce-want-to-buy-twitter-your-data
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: 03b285ca586c0ebb16c55009db2abb6a
+  item_date: "2016-10-05 00:00:00"
+  title: BRIEF-Accenture to acquire Defense Point Security to bolster cybersecurity
+    services
+  url: http://www.reuters.com/article/idUSFWN1CB067
+  domain: www.reuters.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: EwxIBVaMmHammPzHGOMajeISxXpBEkrF5jb1ZnmAD3YuUpqyuv7j15123SeXyXwGjoXJtqFRXORNo58HuMO4wVcA117117
   item_date: "2016-10-06 10:54:35"
   title: Functional Augmented State Transfer FAST Architecture for Computationally
@@ -1454,6 +2766,21 @@
   url: https://jordwalsh.com/2016/10/10/swagger-gist-io-saving-and-versioning-swagger-definitions/
   domain: jordwalsh.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: 0a01b5bae0e0843cb1848e0da6effefa
+  item_date: "2016-10-11 00:00:00"
+  title: Google acquires FameBit to connect YouTube creators with marketers
+  url: https://techcrunch.com/2016/10/11/google-acquires-famebit-to-connect-youtube-creators-with-brands/
+  domain: techcrunch.com
+  image: ""
+- curated_id: f3a8adb19f9c86572be4bffb28406648
+  item_date: "2016-10-12 00:00:00"
+  title: CA Technologies completes acquisition of BlazeMeter
+  url: http://blogs.ca.com/2016/10/12/ca-technologies-completes-acquisition-blazemeter/
+  domain: blogs.ca.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: WqTGcKUw3MsC7jalluRA4yGHZ6AnkcECHAZTrnYxbREWTRmskWaxWiAxLl5npLyyOqctWUCabltzh0116J3oSSzA117117
   item_date: "2016-10-12 00:00:00"
   title: Web App Next Stop In Our Software Journey  REST Services Part III
@@ -1501,6 +2828,15 @@
   title: From Good to Great API
   url: http://api-university.com/blog/from-good-to-great-api/
   domain: api-university.com
+<<<<<<< HEAD
+=======
+  image: ""
+- curated_id: a32e8af8701f7a5c28e047ac02c99664
+  item_date: "2016-10-31 00:00:00"
+  title: CenturyLink, a Network Provider, to Acquire Level 3, a Rival
+  url: http://www.nytimes.com/2016/11/01/business/dealbook/centurylink-a-network-provider-to-acquire-level-3-a-rival.html
+  domain: www.nytimes.com
+>>>>>>> origin/gh-pages
   image: ""
 - curated_id: dMcIt35Bmig123EVRJYyAv7nIFLwniY7MfwR0FPxUYNsEjkI6PQ4VXWMKdsRbYRAzfuDr116QLx54yDd3mhKx123byqw117117
   item_date: "2016-10-31 00:00:00"
@@ -1508,8 +2844,19 @@
   url: https://dzone.com/articles/introducing-seamless-source-control-integration-wi
   domain: dzone.com
   image: ""
+<<<<<<< HEAD
 - curated_id: sn116dMhVpC1vv6rctwmQj8Rjhik7123ib2DW116xrzMKfQ0stJc4y0U2wPZsmmBgTv0123YF9QrFE4DXPoLxqa5GE86Dg117117
   item_date: "2016-10-31 00:00:00"
+=======
+- curated_id: e7a23d688a82225cb91c08885ad6553c
+  item_date: "2016-10-31 00:00:00"
+  title: 'Its Official: CenturyLink To Acquire Level 3 For $34 Billion'
+  url: http://www.crn.com/news/networking/300082647/its-official-centurylink-to-acquire-level-3-for-34-billion.htm
+  domain: www.crn.com
+  image: ""
+- curated_id: sn116dMhVpC1vv6rctwmQj8Rjhik7123ib2DW116xrzMKfQ0stJc4y0U2wPZsmmBgTv0123YF9QrFE4DXPoLxqa5GE86Dg117117
+  item_date: "2016-10-31 00:00:00"
+>>>>>>> origin/gh-pages
   title: Introduction to APIFirst Design
   url: http://www.programmableweb.com/news/introduction-to-api-first-design/analysis/2016/10/31
   domain: www.programmableweb.com
@@ -1544,6 +2891,15 @@
   url: https://swagger-toolbox.firebaseapp.com/
   domain: swagger-toolbox.firebaseapp.com
   image: ""
+<<<<<<< HEAD
+=======
+- curated_id: dKrthEVodGvPzc48123gsMZnHQ1MKhQnVpMkOKghMUeleaNk116RFZgIEfs6nl4QGjuIAHAg97VAiQW3ymxHbZzXnA117117
+  item_date: "2016-12-14 00:00:00"
+  title: 7 Secrets to Designing Alexa Skills
+  url: https://dzone.com/articles/7-secrets-to-designing-alexa-skills
+  domain: dzone.com
+  image: ""
+>>>>>>> origin/gh-pages
 - curated_id: R6JBesMvzzhL1FpnPgbc116SiTJ1b116Yi2QTA9alNEZ1dKpV9HhpM2tHekG1bVVuklTUaQnyH1GruehxyWZH8mWdw117117
   item_date: "2016-12-14 00:00:00"
   title: API Modeling A ZeroCode Way To a Designer API
@@ -1551,15 +2907,18 @@
   domain: www.tibco.com
   image: ""
 - curated_id: Jg5bAi9PLGNP9IJKUxF4iXAx0aW123q1tK66AiMWRkAWZ2F5GUqAB123zPjPMsyRNSUdEIz85OoVV1iUXfYO6xnMeQ117117
+<<<<<<< HEAD
   item_date: "2016-12-14 00:00:00"
   title: Foundations of RESTful Architecture
   url: https://dzone.com/refcardz/rest-foundations-restful
   domain: dzone.com
   image: ""
 - curated_id: dKrthEVodGvPzc48123gsMZnHQ1MKhQnVpMkOKghMUeleaNk116RFZgIEfs6nl4QGjuIAHAg97VAiQW3ymxHbZzXnA117117
+=======
+>>>>>>> origin/gh-pages
   item_date: "2016-12-14 00:00:00"
-  title: 7 Secrets to Designing Alexa Skills
-  url: https://dzone.com/articles/7-secrets-to-designing-alexa-skills
+  title: Foundations of RESTful Architecture
+  url: https://dzone.com/refcardz/rest-foundations-restful
   domain: dzone.com
   image: ""
 - curated_id: hCTkehE2fpb12356q116riWdoE9npZ8nzB0XHa3AAS2yKJU123RMX123tFyGtE7HBPP3OCF9VxQpS2cd9dghkJWD1234cK116w117117
@@ -1664,17 +3023,17 @@
   url: https://hackernoon.com/visualising-complex-apis-using-api-map-f09f617acb32#.8y525mrpn
   domain: hackernoon.com
   image: ""
-- curated_id: gEkQR813o116HF8yldGiKvDtog1zeI9n4116fIHr5E7njDlzfcFoMh1HenoG9xDFFq123IM4116uY6GFuQjfDNUFkcXSDg117117
-  item_date: "2017-02-07 00:00:00"
-  title: Use a Local API to Protect Global Methods in a Distributed Environment
-  url: https://www.codeproject.com/Tips/1169500/Use-a-Local-API-to-Protect-Global-Methods-in-a-Dis
-  domain: www.codeproject.com
-  image: ""
 - curated_id: 2tAS4n97EhMF8Pq99onfpXmy326QRc6oCZ7UxKEAttwyfZrjp123Wrv123tSNWEJT9krMPj91rwCIr6fPNsxUJZREQ117117
   item_date: "2017-02-07 00:00:00"
   title: HTML APIs What They Are And How To Design A Good One
   url: https://newze.net/404-error-page/
   domain: newze.net
+  image: ""
+- curated_id: gEkQR813o116HF8yldGiKvDtog1zeI9n4116fIHr5E7njDlzfcFoMh1HenoG9xDFFq123IM4116uY6GFuQjfDNUFkcXSDg117117
+  item_date: "2017-02-07 00:00:00"
+  title: Use a Local API to Protect Global Methods in a Distributed Environment
+  url: https://www.codeproject.com/Tips/1169500/Use-a-Local-API-to-Protect-Global-Methods-in-a-Dis
+  domain: www.codeproject.com
   image: ""
 - curated_id: gCK4O9BWxWcBb9dnQDKBWP09J34pOlV2mK123dJUI116rgJm4cmHXnYEBgiGf886QlDbh1w621Lm9QIO2ap6VnxjLA117117
   item_date: "2017-02-08 00:00:00"
@@ -1781,17 +3140,17 @@
   url: https://tyk.io/2017/03/06/api-management-events-webhooks-microservices/
   domain: tyk.io
   image: ""
-- curated_id: IXNnXpt4KbvV7SYgrhePZLdBLnGWsSIw1JJu123ivKjBlyRQBaG6hc1S8pVpOYZIBA8Dubiho7oDZE4wIMwmfOWg117117
-  item_date: "2017-03-08 00:00:00"
-  title: Two Forgotten Aspects to an API Design First Approach
-  url: https://medium.com/m/global-identity
-  domain: medium.com
-  image: ""
 - curated_id: y7aIobXwBSysxDKTD7AyDx1ueYEqJlj4qY3riZMtIE3g1Y9klS4fguFLYyBUdsKFPW10oamsMlPPVwhaC116gEOw117117
   item_date: "2017-03-08 00:00:00"
   title: 4 Ways Your API Is Not Quite What I Want
   url: https://zapier.com/engineering/api-pet-peeves/
   domain: zapier.com
+  image: ""
+- curated_id: IXNnXpt4KbvV7SYgrhePZLdBLnGWsSIw1JJu123ivKjBlyRQBaG6hc1S8pVpOYZIBA8Dubiho7oDZE4wIMwmfOWg117117
+  item_date: "2017-03-08 00:00:00"
+  title: Two Forgotten Aspects to an API Design First Approach
+  url: https://medium.com/m/global-identity
+  domain: medium.com
   image: ""
 - curated_id: q1Nq1168Bcxhx3GzO5iZjXpvvGQiI1dZu7Jz6TNpVb1JutCa673BNVWfZoU116r3Yxl2OvB6MyFoO0VXYYOz116f1116Vg117117
   item_date: "2017-03-08 10:12:12"
@@ -1920,18 +3279,27 @@
   title: Building an API  lessons learned the hard way part 2
   url: https://medium.com/m/global-identity
   domain: medium.com
+<<<<<<< HEAD
   image: ""
 - curated_id: 21DFk7fxErnKg2QXLJL9U5gBMqhi7JGlBaiVt2IROkM0bUfdSmCKWZ14TBzmBrwqreUi9NKBqDjbzBss8NuMLA117117
   item_date: "2017-04-20 00:00:00"
   title: Is Protobuf 5x Faster Than JSON Part 2
   url: https://dzone.com/articles/is-protobuf-5x-faster-than-json-part-ii
   domain: dzone.com
+=======
+>>>>>>> origin/gh-pages
   image: ""
 - curated_id: ABu4d7a123Thk93UlswkJAXycX6UkiQeRUcAQ116nXtCSqarYYEuAS8Ps1234n9J1P96FoL31KfgR9caoaYWHgQ0l4FQ117117
   item_date: "2017-04-20 00:00:00"
   title: SOAP vs REST A Look at Two Different API Styles
   url: http://www.business2community.com/brandviews/upwork/soap-vs-rest-look-two-different-api-styles-01827446
   domain: www.business2community.com
+  image: ""
+- curated_id: 21DFk7fxErnKg2QXLJL9U5gBMqhi7JGlBaiVt2IROkM0bUfdSmCKWZ14TBzmBrwqreUi9NKBqDjbzBss8NuMLA117117
+  item_date: "2017-04-20 00:00:00"
+  title: Is Protobuf 5x Faster Than JSON Part 2
+  url: https://dzone.com/articles/is-protobuf-5x-faster-than-json-part-ii
+  domain: dzone.com
   image: ""
 - curated_id: n11651h6Axb4vAX9IXQp4x7YvgBJrHboX6L123vp23Kf7HkQ81JR1D6OQvEz0sRbkn116nlpDuYqMZ1123Z6ydiEkzxg116w117117
   item_date: "2017-04-20 09:37:05"
@@ -1945,17 +3313,17 @@
   url: https://gsuite-developers.googleblog.com/2017/04/using-field-masks-with-update-requests.html
   domain: gsuite-developers.googleblog.com
   image: ""
-- curated_id: qPMVyOTH8Dpv116AoQ0Vr7UejhQzqbE1165z6W123JNmrJA9U6vf8lHbVdJJbG8slWosbw5i1232123aILigQniCLcxHKreA117117
-  item_date: "2017-04-25 00:00:00"
-  title: Introducing ProtocolOriented BDD in Swift for iOS Apps Part 1
-  url: https://dzone.com/articles/introducing-protocol-oriented-bdd-in-swift-for-ios
-  domain: dzone.com
-  image: ""
 - curated_id: tPdy123UwPhTwr1U123Og3IOSAINYRJsUllPTxqZkeN14QIWjARsjYGotesb1d0T8YmQUdxJ4Pz116c7IIyoii116YsiuA117117
   item_date: "2017-04-25 00:00:00"
   title: Deliveroo API Design Guidelines added to the API Stylebook
   url: https://apihandyman.io/deliveroo-api-design-guidelines-added-to-the-api-stylebook/
   domain: apihandyman.io
+  image: ""
+- curated_id: qPMVyOTH8Dpv116AoQ0Vr7UejhQzqbE1165z6W123JNmrJA9U6vf8lHbVdJJbG8slWosbw5i1232123aILigQniCLcxHKreA117117
+  item_date: "2017-04-25 00:00:00"
+  title: Introducing ProtocolOriented BDD in Swift for iOS Apps Part 1
+  url: https://dzone.com/articles/introducing-protocol-oriented-bdd-in-swift-for-ios
+  domain: dzone.com
   image: ""
 - curated_id: yNDL6OQYIJayeVJjtplUDL2H8123YXL792Uelek9O123N5ug1cKPZ5ERSxTbDRsoa22stYYmncb8SSkFopoH3svsyA117117
   item_date: "2017-04-25 12:10:12"
@@ -2005,17 +3373,17 @@
   url: https://github.com/18F/doi-extractives-data/wiki/Little-rules-for-designing-with-data
   domain: github.com
   image: ""
-- curated_id: W07EnCoRP4i0F3dLBpZku0xDNXV123GLaaPTNhBzIMrDTO2UJd4Tguc116L116n1BFUUCklkzbVJ1V3E4nmsropW116Jdg117117
-  item_date: "2017-05-03 00:00:00"
-  title: REST API Industry Debate OData vs GraphQL vs ORDS
-  url: https://www.progress.com/blogs/rest-api-industry-debate-odata-vs-graphql-vs-ords
-  domain: www.progress.com
-  image: ""
 - curated_id: YESer1QlB0ywuCcgSxl116JAWB6UjFCPUQNBgRPzGPcD123URPs9tetLeSHqUQbJ886osMMKr1167ctZXYx5h8VafAnA117117
   item_date: "2017-05-03 00:00:00"
   title: The two perspectives of API design
   url: https://restlet.com/company/blog/2017/05/03/the-two-perspectives-of-api-design/
   domain: restlet.com
+  image: ""
+- curated_id: W07EnCoRP4i0F3dLBpZku0xDNXV123GLaaPTNhBzIMrDTO2UJd4Tguc116L116n1BFUUCklkzbVJ1V3E4nmsropW116Jdg117117
+  item_date: "2017-05-03 00:00:00"
+  title: REST API Industry Debate OData vs GraphQL vs ORDS
+  url: https://www.progress.com/blogs/rest-api-industry-debate-odata-vs-graphql-vs-ords
+  domain: www.progress.com
   image: ""
 - curated_id: Hjeb94UAR03xqLCT123OSpCjFvg116saP2gANJbbeigUwyk2k2bhvOwj1239Qoved123VwvCptzrSQ9hvxKkcPZqlblzbg117117
   item_date: "2017-05-04 00:00:00"
