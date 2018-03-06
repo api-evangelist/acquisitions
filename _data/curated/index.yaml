@@ -361,16 +361,16 @@
   url: http://mashable.com/?p=bp-64868
   domain: mashable.com
   image: ""
-- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_1605af27050:48e24e8:541f3c40
-  item_date: "2017-12-15 07:53:00"
-  title: eBay buys data startup to benefit sellers
-  url: http://www.businessinsider.com/ebay-buys-data-startup-to-benefit-sellers-2017-12?utm_source=feedly&amp;utm_medium=referral
-  domain: www.businessinsider.com
-  image: ""
 - curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_1605bce202c:499c31f:7157a206
   item_date: "2017-12-15 07:53:00"
   title: eBay buys data startup to benefit sellers
   url: http://www.businessinsider.com/ebay-buys-data-startup-to-benefit-sellers-2017-12?utm_source=feedly&utm_medium=referral
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_1605af27050:48e24e8:541f3c40
+  item_date: "2017-12-15 07:53:00"
+  title: eBay buys data startup to benefit sellers
+  url: http://www.businessinsider.com/ebay-buys-data-startup-to-benefit-sellers-2017-12?utm_source=feedly&amp;utm_medium=referral
   domain: www.businessinsider.com
   image: ""
 - curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_1607bdf0607:6896:98c4d03d
@@ -403,5 +403,41 @@
     GitHub
   url: http://techcrunch.com/?p=1582845
   domain: techcrunch.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_1616b6a4dbc:b2fa8:9e976e77
+  item_date: "2018-02-06 05:59:28"
+  title: Rubrik acquires Datos IO to expand into NoSQL database management support
+  url: http://techcrunch.com/?p=1594959
+  domain: techcrunch.com
+  image: ""
+- curated_id: rxLnjiJudc56FbZKrZ0crrg2UUWdKV8knoKwhWKNfS4=_1616b7277a1:3337561:541f3c40
+  item_date: "2018-02-06 06:02:28"
+  title: Codeship Acquired by CloudBees
+  url: https://blog.codeship.com/?p=6097
+  domain: blog.codeship.com
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_1616c446fcb:34c9fbf:541f3c40
+  item_date: "2018-02-06 09:55:55"
+  title: Jenkins
+  url: https://thenewstack.io/?p=4105951
+  domain: thenewstack.io
+  image: ""
+- curated_id: pJGm905BokLVZr/Pl24sMpd19eFuxZ/tV9dx1EzrkgY=_1616c748b00:33cd3d2:7157a206
+  item_date: "2018-02-06 10:46:11"
+  title: CloudBees acquires CD and CI company Codeship
+  url: https://sdtimes.com/?p=29259
+  domain: sdtimes.com
+  image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_161909ac745:6a623f9:3c0bb656
+  item_date: "2018-02-13 11:17:16"
+  title: Fitbit just acquired a cloud
+  url: https://www.theverge.com/2018/2/13/17008620/fitbit-twine-health-cloud-health-care-software-company-health-wellness
+  domain: www.theverge.com
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_161b3b7e8c2:9cec4ed:3c0bb656
+  item_date: "2018-02-20 06:36:41"
+  title: Google buys Xively to improve its IoT platform (GOOG)
+  url: http://www.businessinsider.com/google-buys-xively-to-improve-its-iot-platform-2018-2?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
   image: ""
 ...
