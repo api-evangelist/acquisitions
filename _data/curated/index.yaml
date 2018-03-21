@@ -361,16 +361,16 @@
   url: http://mashable.com/?p=bp-64868
   domain: mashable.com
   image: ""
-- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_1605af27050:48e24e8:541f3c40
-  item_date: "2017-12-15 07:53:00"
-  title: eBay buys data startup to benefit sellers
-  url: http://www.businessinsider.com/ebay-buys-data-startup-to-benefit-sellers-2017-12?utm_source=feedly&amp;utm_medium=referral
-  domain: www.businessinsider.com
-  image: ""
 - curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_1605bce202c:499c31f:7157a206
   item_date: "2017-12-15 07:53:00"
   title: eBay buys data startup to benefit sellers
   url: http://www.businessinsider.com/ebay-buys-data-startup-to-benefit-sellers-2017-12?utm_source=feedly&utm_medium=referral
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_1605af27050:48e24e8:541f3c40
+  item_date: "2017-12-15 07:53:00"
+  title: eBay buys data startup to benefit sellers
+  url: http://www.businessinsider.com/ebay-buys-data-startup-to-benefit-sellers-2017-12?utm_source=feedly&amp;utm_medium=referral
   domain: www.businessinsider.com
   image: ""
 - curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_1607bdf0607:6896:98c4d03d
@@ -445,5 +445,17 @@
   title: Silicon Valley companies are undermining the impact of artificial intelligence
   url: https://techcrunch.com/?p=1606398
   domain: techcrunch.com
+  image: ""
+- curated_id: ZQTLjViBmHaIIqn2rojMd1cDp5whcNyr6F3eheqPe98=_162478ac734:3489c64:34f43e70
+  item_date: "2018-03-20 13:18:41"
+  title: 'Report: Salesforce''s Next Multi'
+  url: https://www.crn.com/news/cloud/300100936/report-salesforces-next-multi-billion-dollar-acquisition-could-be-integration-specialist-mulesoft.htm
+  domain: www.crn.com
+  image: ""
+- curated_id: ZQTLjViBmHaIIqn2rojMd1cDp5whcNyr6F3eheqPe98=_1624716968a:33e0d3b:7d6c1c1c
+  item_date: "2018-03-20 22:41:43"
+  title: 'Confirmed: Salesforce is buying Mulesoft for US$6.5 billion'
+  url: https://www.crn.com.au/news/confirmed-salesforce-is-buying-mulesoft-for-us65-billion-487469
+  domain: www.crn.com.au
   image: ""
 ...
