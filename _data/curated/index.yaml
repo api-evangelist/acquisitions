@@ -361,16 +361,16 @@
   url: http://mashable.com/?p=bp-64868
   domain: mashable.com
   image: ""
-- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_1605bce202c:499c31f:7157a206
-  item_date: "2017-12-15 07:53:00"
-  title: eBay buys data startup to benefit sellers
-  url: http://www.businessinsider.com/ebay-buys-data-startup-to-benefit-sellers-2017-12?utm_source=feedly&utm_medium=referral
-  domain: www.businessinsider.com
-  image: ""
 - curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_1605af27050:48e24e8:541f3c40
   item_date: "2017-12-15 07:53:00"
   title: eBay buys data startup to benefit sellers
   url: http://www.businessinsider.com/ebay-buys-data-startup-to-benefit-sellers-2017-12?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_1605bce202c:499c31f:7157a206
+  item_date: "2017-12-15 07:53:00"
+  title: eBay buys data startup to benefit sellers
+  url: http://www.businessinsider.com/ebay-buys-data-startup-to-benefit-sellers-2017-12?utm_source=feedly&utm_medium=referral
   domain: www.businessinsider.com
   image: ""
 - curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_1607bdf0607:6896:98c4d03d
@@ -487,5 +487,74 @@
   title: Where Developers Stand on Microsoft Acquiring GitHub
   url: http://blog.smartbear.com/?p=24480
   domain: blog.smartbear.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_1642f248bf0:d876e4:4e0f6129
+  item_date: "2018-06-22 10:37:30"
+  title: Smyte Leaves API Customers in the Dust after Twitter Acquisition
+  url: https://www.programmableweb.com/news/smyte-leaves-api-customers-dust-after-twitter-acquisition/brief/2018/06/22
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_16447e10ebe:c236ba:b83afde1
+  item_date: "2018-06-28 12:26:13"
+  title: Amazon buying online pharmacy with nationwide reach; drug store stocks dive
+  url: https://arstechnica.com/?p=1338067
+  domain: arstechnica.com
+  image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_164481e7100:3282e3b:4e0f6129
+  item_date: "2018-06-28 13:32:50"
+  title: "Amazon\u2019s online pharmacy acquisition proves it\u2019s serious about
+    disrupting healthcare"
+  url: https://www.theverge.com/2018/6/28/17515176/amazon-pillpack-walgreens-pharmacy-market
+  domain: www.theverge.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_1646101c8a2:464db:e8d3bdb3
+  item_date: "2018-07-03 09:37:13"
+  title: "Facebook confirms that it\u2019s acquiring Bloomsbury AI"
+  url: https://techcrunch.com/?p=1667597
+  domain: techcrunch.com
+  image: ""
+- curated_id: HKwklz9a1LBDBgbulnG916dFzLOZO3KlGWN+5YbUEE4=_1646140e374:54f3f66:386c987f
+  item_date: "2018-07-03 10:31:18"
+  title: Facebook Acquires British Startup In Fight Against Fake News
+  url: https://www.androidheadlines.com/2018/07/facebook-acquires-british-startup-in-fight-against-fake-news.html
+  domain: www.androidheadlines.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_16484ee032f:2c803f9:19029e75
+  item_date: "2018-07-10 09:01:54"
+  title: Box acquires Butter.ai to make search smarter
+  url: https://techcrunch.com/?p=1670564
+  domain: techcrunch.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_16489fe7195:34442a:e8d3bdb3
+  item_date: "2018-07-11 08:38:15"
+  title: Facial recognition startup Kairos acquires Emotion Reader
+  url: https://techcrunch.com/?p=1671192
+  domain: techcrunch.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_1648b89ab2e:354a277:b83afde1
+  item_date: "2018-07-11 15:49:26"
+  title: Broadcom acquires CA Technologies for $18.9B in cash
+  url: https://techcrunch.com/?p=1671617
+  domain: techcrunch.com
+  image: ""
+- curated_id: ZQTLjViBmHaIIqn2rojMd1cDp5whcNyr6F3eheqPe98=_1648e4f04f2:974cfbd:aa514a55
+  item_date: "2018-07-12 04:19:57"
+  title: Broadcom acquires CA Technologies for $18.9 billion to help 'build leading
+    infrastructure company'
+  url: https://www.cloudcomputing-news.net/news/2018/jul/12/broadcom-acquires-ca-technologies-189-billion-help-build-leading-infrastructure-company/
+  domain: www.cloudcomputing-news.net
+  image: ""
+- curated_id: ZQTLjViBmHaIIqn2rojMd1cDp5whcNyr6F3eheqPe98=_1648ea7edfc:983d405:4e0f6129
+  item_date: "2018-07-12 05:56:41"
+  title: Broadcom acquires enterprise business with CA Technologies deal
+  url: https://www.computerweekly.com/news/252444649/Broadcom-acquires-enterprise-business-with-CA-Technologies-deal
+  domain: www.computerweekly.com
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_164a43a6858:b59d7ed:aa514a55
+  item_date: "2018-07-16 10:33:36"
+  title: Salesforce continues to invest in AI by acquiring startup Datorama for a
+    reported $800 million (CRM)
+  url: http://www.businessinsider.com/salesforce-datorama-acquisition-price-2018-7?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
   image: ""
 ...
