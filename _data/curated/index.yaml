@@ -361,16 +361,16 @@
   url: http://mashable.com/?p=bp-64868
   domain: mashable.com
   image: ""
-- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_1605af27050:48e24e8:541f3c40
-  item_date: "2017-12-15 07:53:00"
-  title: eBay buys data startup to benefit sellers
-  url: http://www.businessinsider.com/ebay-buys-data-startup-to-benefit-sellers-2017-12?utm_source=feedly&amp;utm_medium=referral
-  domain: www.businessinsider.com
-  image: ""
 - curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_1605bce202c:499c31f:7157a206
   item_date: "2017-12-15 07:53:00"
   title: eBay buys data startup to benefit sellers
   url: http://www.businessinsider.com/ebay-buys-data-startup-to-benefit-sellers-2017-12?utm_source=feedly&utm_medium=referral
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_1605af27050:48e24e8:541f3c40
+  item_date: "2017-12-15 07:53:00"
+  title: eBay buys data startup to benefit sellers
+  url: http://www.businessinsider.com/ebay-buys-data-startup-to-benefit-sellers-2017-12?utm_source=feedly&amp;utm_medium=referral
   domain: www.businessinsider.com
   image: ""
 - curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_1607bdf0607:6896:98c4d03d
@@ -574,5 +574,23 @@
   title: Arm acquires data management service Treasure Data to bolster its IoT platform
   url: https://techcrunch.com/?p=1685127
   domain: techcrunch.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_1657c927293:24ae65:3da9d93
+  item_date: "2018-08-27 11:02:15"
+  title: VMware acquires CloudHealth Technologies for multi
+  url: https://techcrunch.com/?p=1699636
+  domain: techcrunch.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_165806f16b1:255c293:d987d511
+  item_date: "2018-08-28 05:00:58"
+  title: SmartBear expands software testing market reach with Zephyr acquisition
+  url: https://techcrunch.com/?p=1699994
+  domain: techcrunch.com
+  image: ""
+- curated_id: pJGm905BokLVZr/Pl24sMpd19eFuxZ/tV9dx1EzrkgY=_16580798ac8:a2ee33:4c71e4fe
+  item_date: "2018-08-28 05:13:41"
+  title: SmartBear acquires test management solution provider Zephyr
+  url: https://sdtimes.com/?p=32094
+  domain: sdtimes.com
   image: ""
 ...
